@@ -1,13 +1,7 @@
-//
-//  OPPCashAppPayProcessor.h
-//  OPPWAMobile
-//
-//  Created by Dalvi, Vikas on 12/08/24.
-//  Copyright © 2024 ACI Worldwide. All rights reserved.
-//
+//  © Copyright ACI Worldwide, Inc. 2018, 2026
 
 #import <Foundation/Foundation.h>
-#import "OPPTransaction.h"
+@class OPPTransaction;
 
 /**
  Completion block for Cash App Pay payment processing.

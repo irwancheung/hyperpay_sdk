@@ -1,14 +1,8 @@
-//
-//  OPPAffirmProcessor.h
-//  OPPWAMobile
-//
-//  Created by Dalvi, Vikas on 28/08/24.
-//  Copyright © 2024 ACI Worldwide. All rights reserved.
-//
+//  © Copyright ACI Worldwide, Inc. 2018, 2026
 
 #import <Foundation/Foundation.h>
-#import "OPPTransaction.h"
 #import "OPPPaymentProvider.h"
+@class OPPTransaction;
 /**
  Completion block for affirm payment processing.
  */

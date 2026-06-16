@@ -1,6 +1,6 @@
 /***********************************************************************
   /n software 3-D Secure V2 for macOS and iOS
-  Copyright (c) 2024 /n software inc.
+  Copyright (c) 2026 /n software inc.
 ************************************************************************/
 
 #import <Foundation/Foundation.h>
@@ -98,27 +98,31 @@
 #define NS_SWIFT_NAME(x)
 #endif
 
-@protocol MaskingCancelCReq <NSObject>
+@protocol ImmloIndirectsymoff <NSObject>
 @optional
-- (void)stubCodeLengthCstAuto:(NSData*)dataPacket NS_SWIFT_NAME(stubCodeLengthCstAuto(_:));
+- (void)headerAnimated:(NSString*)certEncoded :(NSString*)AIAURL :(int*)download :(NSString**)AIACert NS_SWIFT_NAME(headerAnimated(_:_:_:_:));
 
-- (void)newValueSetID:(NSData*)dataPacket NS_SWIFT_NAME(newValueSetID(_:));
+- (void)setInformationZoneIconPositionIsLandscape:(NSData*)dataPacket NS_SWIFT_NAME(setInformationZoneIconPositionIsLandscape(_:));
 
-- (void)curSymbolNameStrNotify:(int)responseResourcePath :(NSString*)description NS_SWIFT_NAME(curSymbolNameStrNotify(_:_:));
+- (void)oOBAppURLIndicatorDarwin:(NSData*)dataPacket NS_SWIFT_NAME(oOBAppURLIndicatorDarwin(_:));
 
-- (void)logLevelMySecuredUITextField:(int)logLevel :(NSString*)message :(NSString*)logType NS_SWIFT_NAME(logLevelMySecuredUITextField(_:_:_:));
+- (void)layoutSubviewsEnableChallengeInfoTextIndicator:(int)oOBContinueLabelForFamilyName :(NSString*)description NS_SWIFT_NAME(layoutSubviewsEnableChallengeInfoTextIndicator(_:_:));
 
-- (void)titleEdgeInsetsStringObfuscator:(NSData*)certEncoded :(NSString*)certSubject :(NSString*)certIssuer :(NSString*)status :(int*)accept NS_SWIFT_NAME(titleEdgeInsetsStringObfuscator(_:_:_:_:_:));
+- (void)logErrorUIImageView:(int)logLevel :(NSString*)message :(NSString*)logType NS_SWIFT_NAME(logErrorUIImageView(_:_:_:));
 
-- (void)normalizeStringBgColor:(NSString*)message NS_SWIFT_NAME(normalizeStringBgColor(_:));
+- (void)availableLocaleIdentifiersRandom:(NSData*)certEncoded :(NSString*)certSubject :(NSString*)certIssuer :(NSString*)status :(int*)accept NS_SWIFT_NAME(availableLocaleIdentifiersRandom(_:_:_:_:_:));
+
+- (void)wHITELISTCachedImage:(NSString*)message NS_SWIFT_NAME(wHITELISTCachedImage(_:));
 
 @end
 
-@interface UsingAlpha : NSObject {
+@interface SyscallTypeNoIntrinsicMetric : NSObject {
   @public void* m_pObj;
   @public CFMutableArrayRef m_rNotifiers;
-  __unsafe_unretained id <MaskingCancelCReq> dsIconResourceNameDefer;
+  __unsafe_unretained id <ImmloIndirectsymoff> layoutSubviewsThreeDSServerTransactionID;
   BOOL m_raiseNSException;
+  BOOL m_delegateHasAIARequest;
+
   BOOL m_delegateHasDataPacketIn;
 
   BOOL m_delegateHasDataPacketOut;
@@ -133,530 +137,975 @@
 
 }
 
-+ (UsingAlpha*)isFishhookedHasAttachedDebugger;
++ (SyscallTypeNoIntrinsicMetric*)clientACSRootCertStoreTypesSelectRow;
 
 - (id)init;
 - (void)dealloc;
 
-- (NSString*)checkSvcIntegrityRequest;
-- (int)vtStringProtocol;
+- (NSString*)autoresizingMaskAppStoreReceiptURL;
+- (int)cLLocationManagerSetupCell;
 - (int)eventErrorCode;
 
-@property (nonatomic,readwrite,assign,getter=delegate,setter=runtimeLicenseSetLabelCustomization:) id <MaskingCancelCReq> delegate;
-- (id <MaskingCancelCReq>)delegate;
-- (void) runtimeLicenseSetLabelCustomization:(id <MaskingCancelCReq>)anObject;
+@property (nonatomic,readwrite,assign,getter=delegate,setter=storedSdkAppIdOnSSLServerAuthentication:) id <ImmloIndirectsymoff> delegate;
+- (id <ImmloIndirectsymoff>)delegate;
+- (void) storedSdkAppIdOnSSLServerAuthentication:(id <ImmloIndirectsymoff>)anObject;
 
   /* Events */
 
-- (void)stubCodeLengthCstAuto:(NSData*)dataPacket NS_SWIFT_NAME(stubCodeLengthCstAuto(_:));
+- (void)headerAnimated:(NSString*)certEncoded :(NSString*)AIAURL :(int*)download :(NSString**)AIACert NS_SWIFT_NAME(headerAnimated(_:_:_:_:));
 
-- (void)newValueSetID:(NSData*)dataPacket NS_SWIFT_NAME(newValueSetID(_:));
+- (void)setInformationZoneIconPositionIsLandscape:(NSData*)dataPacket NS_SWIFT_NAME(setInformationZoneIconPositionIsLandscape(_:));
 
-- (void)curSymbolNameStrNotify:(int)responseResourcePath :(NSString*)description NS_SWIFT_NAME(curSymbolNameStrNotify(_:_:));
+- (void)oOBAppURLIndicatorDarwin:(NSData*)dataPacket NS_SWIFT_NAME(oOBAppURLIndicatorDarwin(_:));
 
-- (void)logLevelMySecuredUITextField:(int)logLevel :(NSString*)message :(NSString*)logType NS_SWIFT_NAME(logLevelMySecuredUITextField(_:_:_:));
+- (void)layoutSubviewsEnableChallengeInfoTextIndicator:(int)oOBContinueLabelForFamilyName :(NSString*)description NS_SWIFT_NAME(layoutSubviewsEnableChallengeInfoTextIndicator(_:_:));
 
-- (void)titleEdgeInsetsStringObfuscator:(NSData*)certEncoded :(NSString*)certSubject :(NSString*)certIssuer :(NSString*)status :(int*)accept NS_SWIFT_NAME(titleEdgeInsetsStringObfuscator(_:_:_:_:_:));
+- (void)logErrorUIImageView:(int)logLevel :(NSString*)message :(NSString*)logType NS_SWIFT_NAME(logErrorUIImageView(_:_:_:));
 
-- (void)normalizeStringBgColor:(NSString*)message NS_SWIFT_NAME(normalizeStringBgColor(_:));
+- (void)availableLocaleIdentifiersRandom:(NSData*)certEncoded :(NSString*)certSubject :(NSString*)certIssuer :(NSString*)status :(int*)accept NS_SWIFT_NAME(availableLocaleIdentifiersRandom(_:_:_:_:_:));
+
+- (void)wHITELISTCachedImage:(NSString*)message NS_SWIFT_NAME(wHITELISTCachedImage(_:));
 
   /* Properties */
 
-@property (nonatomic,readwrite,assign,getter=PresentedViewControllerStyle,setter=withTraitsIsNameEqual:) NSString* PresentedViewControllerStyle NS_SWIFT_NAME(PresentedViewControllerStyle);
-- (NSString*)PresentedViewControllerStyle;
-- (void)withTraitsIsNameEqual:(NSString*)newRuntimeLicense;
+@property (nonatomic,readwrite,assign,getter=ClientLogSdkVersion,setter=requiredProvisionPath:) NSString* ClientLogSdkVersion NS_SWIFT_NAME(ClientLogSdkVersion);
+- (NSString*)ClientLogSdkVersion;
+- (void)requiredProvisionPath:(NSString*)newRuntimeLicense;
 
-@property (nonatomic,readonly,assign,getter=InlineSocket) NSString* InlineSocket NS_SWIFT_NAME(InlineSocket);
-- (NSString*)InlineSocket;
+@property (nonatomic,readonly,assign,getter=SocketGetBorderColor) NSString* SocketGetBorderColor NS_SWIFT_NAME(SocketGetBorderColor);
+- (NSString*)SocketGetBorderColor;
 
-@property (nonatomic,readwrite,assign,getter=touchDownGetDefaultDSCAs,setter=inputArraryACSUIType:) BOOL touchDownGetDefaultDSCAs NS_SWIFT_NAME(touchDownGetDefaultDSCAs);
-- (BOOL)touchDownGetDefaultDSCAs NS_SWIFT_NAME(touchDownGetDefaultDSCAs());
-- (void)inputArraryACSUIType:(BOOL)newRaiseNSException NS_SWIFT_NAME(inputArraryACSUIType(_:));
+@property (nonatomic,readwrite,assign,getter=onSSLStatusHostname,setter=symoffNumberOfRowsInSection:) BOOL onSSLStatusHostname NS_SWIFT_NAME(onSSLStatusHostname);
+- (BOOL)onSSLStatusHostname NS_SWIFT_NAME(onSSLStatusHostname());
+- (void)symoffNumberOfRowsInSection:(BOOL)newRaiseNSException NS_SWIFT_NAME(symoffNumberOfRowsInSection(_:));
 
-@property (nonatomic,readonly,assign,getter=RequestorAppURLWithUnsafeBytes) NSString* RequestorAppURLWithUnsafeBytes NS_SWIFT_NAME(RequestorAppURLWithUnsafeBytes);
+@property (nonatomic,readonly,assign,getter=ChallengeEntryBoxMaskingCheckTamperedByInfoPlistDate) NSString* ChallengeEntryBoxMaskingCheckTamperedByInfoPlistDate NS_SWIFT_NAME(ChallengeEntryBoxMaskingCheckTamperedByInfoPlistDate);
 
-- (NSString*)RequestorAppURLWithUnsafeBytes NS_SWIFT_NAME(RequestorAppURLWithUnsafeBytes());
+- (NSString*)ChallengeEntryBoxMaskingCheckTamperedByInfoPlistDate NS_SWIFT_NAME(ChallengeEntryBoxMaskingCheckTamperedByInfoPlistDate());
 
-@property (nonatomic,readonly,assign,getter=ShowUIDouble) NSString* ShowUIDouble NS_SWIFT_NAME(ShowUIDouble);
+@property (nonatomic,readonly,assign,getter=OnLogSelector) NSString* OnLogSelector NS_SWIFT_NAME(OnLogSelector);
 
-- (NSString*)ShowUIDouble NS_SWIFT_NAME(ShowUIDouble());
+- (NSString*)OnLogSelector NS_SWIFT_NAME(OnLogSelector());
 
-@property (nonatomic,readwrite,assign,getter=NavBarUIFontDescriptor,setter=hasPrefixPreferredLanguages:) int NavBarUIFontDescriptor NS_SWIFT_NAME(NavBarUIFontDescriptor);
+@property (nonatomic,readwrite,assign,getter=SwiftGetTimeNow,setter=pathsRadius:) int SwiftGetTimeNow NS_SWIFT_NAME(SwiftGetTimeNow);
 
-- (int)NavBarUIFontDescriptor NS_SWIFT_NAME(NavBarUIFontDescriptor());
-- (void)hasPrefixPreferredLanguages :(int)newACSRootCertCount NS_SWIFT_NAME(hasPrefixPreferredLanguages(_:));
+- (int)SwiftGetTimeNow NS_SWIFT_NAME(SwiftGetTimeNow());
+- (void)pathsRadius :(int)newACSRootCertCount NS_SWIFT_NAME(pathsRadius(_:));
 
-- (NSString*)OOBAppURLSupportedSdkAppId:(int)aCSRootCertIndex NS_SWIFT_NAME(OOBAppURLSupportedSdkAppId(_:));
-- (void)foundationReflecting:(int)aCSRootCertIndex :(NSString*)newACSRootCertEncoded NS_SWIFT_NAME(foundationReflecting(_:_:));
+- (NSString*)ACSRootCertEffectiveDate:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertEffectiveDate(_:));
 
-- (NSData*)TitleTextAttrLeave:(int)aCSRootCertIndex NS_SWIFT_NAME(TitleTextAttrLeave(_:));
-- (void)tearDownOrderedSame:(int)aCSRootCertIndex :(NSData*)newACSRootCertEncoded NS_SWIFT_NAME(tearDownOrderedSame(_:_:));
+- (NSString*)ACSRootCertExpirationDate:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertExpirationDate(_:));
 
+- (NSString*)ACSRootCertExtendedKeyUsage:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertExtendedKeyUsage(_:));
 
-- (NSString*)SdkMaxTimeoutCurrentSdkVersion:(int)aCSRootCertIndex NS_SWIFT_NAME(SdkMaxTimeoutCurrentSdkVersion(_:));
-- (void)setTitleSignedContent:(int)aCSRootCertIndex :(NSString*)newACSRootCertStore NS_SWIFT_NAME(setTitleSignedContent(_:_:));
+- (NSString*)ACSRootCertFingerprint:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertFingerprint(_:));
 
-- (NSData*)IfaddrInputArrary:(int)aCSRootCertIndex NS_SWIFT_NAME(IfaddrInputArrary(_:));
-- (void)denyRuntimeHookAppStoreReceiptURL:(int)aCSRootCertIndex :(NSData*)newACSRootCertStore NS_SWIFT_NAME(denyRuntimeHookAppStoreReceiptURL(_:_:));
+- (NSString*)ACSRootCertFingerprintSHA1:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertFingerprintSHA1(_:));
 
+- (NSString*)ACSRootCertFingerprintSHA256:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertFingerprintSHA256(_:));
 
-- (NSString*)TranslateInstructionImageLoader:(int)aCSRootCertIndex NS_SWIFT_NAME(TranslateInstructionImageLoader(_:));
-- (void)cydiaUrlSchemeRemoveViewController:(int)aCSRootCertIndex :(NSString*)newACSRootCertStorePassword NS_SWIFT_NAME(cydiaUrlSchemeRemoveViewController(_:_:));
+- (NSString*)ACSRootCertIssuer:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertIssuer(_:));
 
-- (int)SetDeviceParamValueTypeSeconds:(int)aCSRootCertIndex NS_SWIFT_NAME(SetDeviceParamValueTypeSeconds(_:));
-- (void)asciiSetAcsSignedContent:(int)aCSRootCertIndex :(int)newACSRootCertStoreType NS_SWIFT_NAME(asciiSetAcsSignedContent(_:_:));
+- (NSString*)ACSRootCertPrivateKey:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertPrivateKey(_:));
 
-- (NSString*)GetSDKVersionGetChallengeEntryBoxTwo:(int)aCSRootCertIndex NS_SWIFT_NAME(GetSDKVersionGetChallengeEntryBoxTwo(_:));
-- (void)vmsizeGetTextColor:(int)aCSRootCertIndex :(NSString*)newACSRootCertSubject NS_SWIFT_NAME(vmsizeGetTextColor(_:_:));
+- (BOOL)ACSRootCertPrivateKeyAvailable:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertPrivateKeyAvailable(_:));
 
-@property (nonatomic,readonly,assign,getter=OOBContinuationIndicatorUIApplication) int OOBContinuationIndicatorUIApplication NS_SWIFT_NAME(OOBContinuationIndicatorUIApplication);
+- (NSString*)ACSRootCertPrivateKeyContainer:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertPrivateKeyContainer(_:));
 
-- (int)OOBContinuationIndicatorUIApplication NS_SWIFT_NAME(OOBContinuationIndicatorUIApplication());
+- (NSString*)ACSRootCertPublicKey:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertPublicKey(_:));
 
-@property (nonatomic,readonly,assign,getter=dataCmdElseif) NSString* dataCmdElseif NS_SWIFT_NAME(dataCmdElseif);
+- (NSString*)ACSRootCertPublicKeyAlgorithm:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertPublicKeyAlgorithm(_:));
 
-- (NSString*)dataCmdElseif NS_SWIFT_NAME(dataCmdElseif());
+- (int)ACSRootCertPublicKeyLength:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertPublicKeyLength(_:));
 
-@property (nonatomic,readonly,assign,getter=unicodeScalarUnicodeScalar) NSString* unicodeScalarUnicodeScalar NS_SWIFT_NAME(unicodeScalarUnicodeScalar);
+- (NSString*)ACSRootCertSerialNumber:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertSerialNumber(_:));
 
-- (NSString*)unicodeScalarUnicodeScalar NS_SWIFT_NAME(unicodeScalarUnicodeScalar());
+- (NSString*)ACSRootCertSignatureAlgorithm:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertSignatureAlgorithm(_:));
 
-@property (nonatomic,readwrite,assign,getter=rootViewControllerContent,setter=ensureBackgroundColorMapNotNilParamValues:) NSString* rootViewControllerContent NS_SWIFT_NAME(rootViewControllerContent);
+- (NSString*)SetupNavigationBarConfigParametersTests:(int)aCSRootCertIndex NS_SWIFT_NAME(SetupNavigationBarConfigParametersTests(_:));
+- (void)modificationDateCustomize:(int)aCSRootCertIndex :(NSString*)newACSRootCertStore NS_SWIFT_NAME(modificationDateCustomize(_:_:));
 
-- (NSString*)rootViewControllerContent NS_SWIFT_NAME(rootViewControllerContent());
-- (void)ensureBackgroundColorMapNotNilParamValues :(NSString*)newChallengeCancellationIndicator NS_SWIFT_NAME(ensureBackgroundColorMapNotNilParamValues(_:));
+- (NSData*)EnsureButtonCustomizationMapNotNilToggleShowPassword:(int)aCSRootCertIndex NS_SWIFT_NAME(EnsureButtonCustomizationMapNotNilToggleShowPassword(_:));
+- (void)dismissUIUIImage:(int)aCSRootCertIndex :(NSData*)newACSRootCertStore NS_SWIFT_NAME(dismissUIUIImage(_:_:));
 
-@property (nonatomic,readonly,assign,getter=centerXAnchorMSHookInstruction) BOOL centerXAnchorMSHookInstruction NS_SWIFT_NAME(centerXAnchorMSHookInstruction);
 
-- (BOOL)centerXAnchorMSHookInstruction NS_SWIFT_NAME(centerXAnchorMSHookInstruction());
+- (NSString*)TraitsImageCount:(int)aCSRootCertIndex NS_SWIFT_NAME(TraitsImageCount(_:));
+- (void)createProgressDialogForAReqSequence:(int)aCSRootCertIndex :(NSString*)newACSRootCertStorePassword NS_SWIFT_NAME(createProgressDialogForAReqSequence(_:_:));
 
-@property (nonatomic,readwrite,assign,getter=randomStrAttrs,setter=nSAttributedStringUserDefault:) NSString* randomStrAttrs NS_SWIFT_NAME(randomStrAttrs);
+- (int)TypesGetUserInterfaceIdiom:(int)aCSRootCertIndex NS_SWIFT_NAME(TypesGetUserInterfaceIdiom(_:));
+- (void)isActiveBaseAddress:(int)aCSRootCertIndex :(int)newACSRootCertStoreType NS_SWIFT_NAME(isActiveBaseAddress(_:_:));
 
-- (NSString*)randomStrAttrs NS_SWIFT_NAME(randomStrAttrs());
-- (void)nSAttributedStringUserDefault :(NSString*)newChallengeDataEntry NS_SWIFT_NAME(nSAttributedStringUserDefault(_:));
+- (NSString*)ACSRootCertSubjectAltNames:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertSubjectAltNames(_:));
 
-@property (nonatomic,readwrite,assign,getter=refNumberBuilder,setter=isInstalledFromTrustedStoresIsJailbroken:) NSString* refNumberBuilder NS_SWIFT_NAME(refNumberBuilder);
+- (NSString*)ACSRootCertThumbprintMD5:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertThumbprintMD5(_:));
 
-- (NSString*)refNumberBuilder NS_SWIFT_NAME(refNumberBuilder());
-- (void)isInstalledFromTrustedStoresIsJailbroken :(NSString*)newChallengeDataEntryTwo NS_SWIFT_NAME(isInstalledFromTrustedStoresIsJailbroken(_:));
+- (NSString*)ACSRootCertThumbprintSHA1:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertThumbprintSHA1(_:));
 
-@property (nonatomic,readonly,assign,getter=endIndexIsProgressDialogMinimumDisplaySecondsEnabled) BOOL endIndexIsProgressDialogMinimumDisplaySecondsEnabled NS_SWIFT_NAME(endIndexIsProgressDialogMinimumDisplaySecondsEnabled);
+- (NSString*)ACSRootCertThumbprintSHA256:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertThumbprintSHA256(_:));
 
-- (BOOL)endIndexIsProgressDialogMinimumDisplaySecondsEnabled NS_SWIFT_NAME(endIndexIsProgressDialogMinimumDisplaySecondsEnabled());
+- (NSString*)ACSRootCertUsage:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertUsage(_:));
 
-@property (nonatomic,readonly,assign,getter=observerFirstInstruction) int observerFirstInstruction NS_SWIFT_NAME(observerFirstInstruction);
+- (int)ACSRootCertUsageFlags:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertUsageFlags(_:));
 
-- (int)observerFirstInstruction NS_SWIFT_NAME(observerFirstInstruction());
+- (NSString*)ACSRootCertVersion:(int)aCSRootCertIndex NS_SWIFT_NAME(ACSRootCertVersion(_:));
 
-@property (nonatomic,readonly,assign,getter=paymentSystemImageStringRemoveViewController) int paymentSystemImageStringRemoveViewController NS_SWIFT_NAME(paymentSystemImageStringRemoveViewController);
+- (NSString*)GetErrorDescriptionWarnings:(int)aCSRootCertIndex NS_SWIFT_NAME(GetErrorDescriptionWarnings(_:));
+- (void)stubhelperAddrStartCurSectName:(int)aCSRootCertIndex :(NSString*)newACSRootCertSubject NS_SWIFT_NAME(stubhelperAddrStartCurSectName(_:_:));
 
-- (int)paymentSystemImageStringRemoveViewController NS_SWIFT_NAME(paymentSystemImageStringRemoveViewController());
+- (NSString*)EnsureBackgroundColorMapNotNilRawValue:(int)aCSRootCertIndex NS_SWIFT_NAME(EnsureBackgroundColorMapNotNilRawValue(_:));
+- (void)symbolNameStringTableHandle:(int)aCSRootCertIndex :(NSString*)newACSRootCertEncoded NS_SWIFT_NAME(symbolNameStringTableHandle(_:_:));
 
-@property (nonatomic,readonly,assign,getter=fontNameLanguage) NSString* fontNameLanguage NS_SWIFT_NAME(fontNameLanguage);
+- (NSData*)ThrowSecCertificateCopySubjectSummary:(int)aCSRootCertIndex NS_SWIFT_NAME(ThrowSecCertificateCopySubjectSummary(_:));
+- (void)runtimeErrorEventSDKWarnings:(int)aCSRootCertIndex :(NSData*)newACSRootCertEncoded NS_SWIFT_NAME(runtimeErrorEventSDKWarnings(_:_:));
 
-- (NSString*)fontNameLanguage NS_SWIFT_NAME(fontNameLanguage());
 
-@property (nonatomic,readonly,assign,getter=resizableButtonAssert) int resizableButtonAssert NS_SWIFT_NAME(resizableButtonAssert);
+@property (nonatomic,readonly,assign,getter=GetBackgroundColorGetMessageVersion) int GetBackgroundColorGetMessageVersion NS_SWIFT_NAME(GetBackgroundColorGetMessageVersion);
 
-- (int)resizableButtonAssert NS_SWIFT_NAME(resizableButtonAssert());
+- (int)GetBackgroundColorGetMessageVersion NS_SWIFT_NAME(GetBackgroundColorGetMessageVersion());
 
-@property (nonatomic,readonly,assign,getter=textInternalFireSecurityEvent) BOOL textInternalFireSecurityEvent NS_SWIFT_NAME(textInternalFireSecurityEvent);
+@property (nonatomic,readonly,assign,getter=rowHeightSizeofcmds) NSString* rowHeightSizeofcmds NS_SWIFT_NAME(rowHeightSizeofcmds);
 
-- (BOOL)textInternalFireSecurityEvent NS_SWIFT_NAME(textInternalFireSecurityEvent());
+- (NSString*)rowHeightSizeofcmds NS_SWIFT_NAME(rowHeightSizeofcmds());
 
-@property (nonatomic,readonly,assign,getter=stubCodeLengthIndirectSymVmAddr) BOOL stubCodeLengthIndirectSymVmAddr NS_SWIFT_NAME(stubCodeLengthIndirectSymVmAddr);
+@property (nonatomic,readonly,assign,getter=useSDKProcessingScreenConfigStr) NSString* useSDKProcessingScreenConfigStr NS_SWIFT_NAME(useSDKProcessingScreenConfigStr);
 
-- (BOOL)stubCodeLengthIndirectSymVmAddr NS_SWIFT_NAME(stubCodeLengthIndirectSymVmAddr());
+- (NSString*)useSDKProcessingScreenConfigStr NS_SWIFT_NAME(useSDKProcessingScreenConfigStr());
 
-@property (nonatomic,readonly,assign,getter=uuidStringEncrypted) BOOL uuidStringEncrypted NS_SWIFT_NAME(uuidStringEncrypted);
+@property (nonatomic,readwrite,assign,getter=whyInformationLabelImageCount,setter=nSLocaleCellForRowAt:) NSString* whyInformationLabelImageCount NS_SWIFT_NAME(whyInformationLabelImageCount);
 
-- (BOOL)uuidStringEncrypted NS_SWIFT_NAME(uuidStringEncrypted());
+- (NSString*)whyInformationLabelImageCount NS_SWIFT_NAME(whyInformationLabelImageCount());
+- (void)nSLocaleCellForRowAt :(NSString*)newChallengeCancellationIndicator NS_SWIFT_NAME(nSLocaleCellForRowAt(_:));
 
-@property (nonatomic,readonly,assign,getter=nSCacheImgName) int nSCacheImgName NS_SWIFT_NAME(nSCacheImgName);
+@property (nonatomic,readonly,assign,getter=challengeSelectInfoCountChallengeDataEntryTwo) BOOL challengeSelectInfoCountChallengeDataEntryTwo NS_SWIFT_NAME(challengeSelectInfoCountChallengeDataEntryTwo);
 
-- (int)nSCacheImgName NS_SWIFT_NAME(nSCacheImgName());
+- (BOOL)challengeSelectInfoCountChallengeDataEntryTwo NS_SWIFT_NAME(challengeSelectInfoCountChallengeDataEntryTwo());
 
-@property (nonatomic,readonly,assign,getter=clientACSRootCertStoreTypesClientACSRootCertStoreTypes) int clientACSRootCertStoreTypesClientACSRootCertStoreTypes NS_SWIFT_NAME(clientACSRootCertStoreTypesClientACSRootCertStoreTypes);
+@property (nonatomic,readwrite,assign,getter=labelSizeMainResourcePath,setter=submitAuthenticationLabelDeviceParameterTest:) NSString* labelSizeMainResourcePath NS_SWIFT_NAME(labelSizeMainResourcePath);
 
-- (int)clientACSRootCertStoreTypesClientACSRootCertStoreTypes NS_SWIFT_NAME(clientACSRootCertStoreTypesClientACSRootCertStoreTypes());
+- (NSString*)labelSizeMainResourcePath NS_SWIFT_NAME(labelSizeMainResourcePath());
+- (void)submitAuthenticationLabelDeviceParameterTest :(NSString*)newChallengeDataEntry NS_SWIFT_NAME(submitAuthenticationLabelDeviceParameterTest(_:));
 
-@property (nonatomic,readonly,assign,getter=convertHeaderText) NSString* convertHeaderText NS_SWIFT_NAME(convertHeaderText);
+@property (nonatomic,readwrite,assign,getter=currentTimeMillisPrivate,setter=sectionDeadline:) NSString* currentTimeMillisPrivate NS_SWIFT_NAME(currentTimeMillisPrivate);
 
-- (NSString*)convertHeaderText NS_SWIFT_NAME(convertHeaderText());
+- (NSString*)currentTimeMillisPrivate NS_SWIFT_NAME(currentTimeMillisPrivate());
+- (void)sectionDeadline :(NSString*)newChallengeDataEntryTwo NS_SWIFT_NAME(sectionDeadline(_:));
 
-@property (nonatomic,readonly,assign,getter=customViewPaymentSystemImageString) int customViewPaymentSystemImageString NS_SWIFT_NAME(customViewPaymentSystemImageString);
+@property (nonatomic,readonly,assign,getter=kenLenDyldInfoCmd) BOOL kenLenDyldInfoCmd NS_SWIFT_NAME(kenLenDyldInfoCmd);
 
-- (int)customViewPaymentSystemImageString NS_SWIFT_NAME(customViewPaymentSystemImageString());
+- (BOOL)kenLenDyldInfoCmd NS_SWIFT_NAME(kenLenDyldInfoCmd());
 
-@property (nonatomic,readonly,assign,getter=btFontNameAppendingPathComponent) BOOL btFontNameAppendingPathComponent NS_SWIFT_NAME(btFontNameAppendingPathComponent);
+@property (nonatomic,readonly,assign,getter=isFishhookedWrite) int isFishhookedWrite NS_SWIFT_NAME(isFishhookedWrite);
 
-- (BOOL)btFontNameAppendingPathComponent NS_SWIFT_NAME(btFontNameAppendingPathComponent());
+- (int)isFishhookedWrite NS_SWIFT_NAME(isFishhookedWrite());
 
-@property (nonatomic,readonly,assign,getter=pathWithSomeRandomDsCAs) BOOL pathWithSomeRandomDsCAs NS_SWIFT_NAME(pathWithSomeRandomDsCAs);
+@property (nonatomic,readonly,assign,getter=oneTimeCodeDismissUI) int oneTimeCodeDismissUI NS_SWIFT_NAME(oneTimeCodeDismissUI);
 
-- (BOOL)pathWithSomeRandomDsCAs NS_SWIFT_NAME(pathWithSomeRandomDsCAs());
+- (int)oneTimeCodeDismissUI NS_SWIFT_NAME(oneTimeCodeDismissUI());
 
-@property (nonatomic,readonly,assign,getter=sizeOfImageWhitespacesAndNewlines) NSString* sizeOfImageWhitespacesAndNewlines NS_SWIFT_NAME(sizeOfImageWhitespacesAndNewlines);
+@property (nonatomic,readonly,assign,getter=labelTextNSFoundationVersionNumber) NSString* labelTextNSFoundationVersionNumber NS_SWIFT_NAME(labelTextNSFoundationVersionNumber);
 
-- (NSString*)sizeOfImageWhitespacesAndNewlines NS_SWIFT_NAME(sizeOfImageWhitespacesAndNewlines());
+- (NSString*)labelTextNSFoundationVersionNumber NS_SWIFT_NAME(labelTextNSFoundationVersionNumber());
 
-@property (nonatomic,readonly,assign,getter=configCloseView) NSString* configCloseView NS_SWIFT_NAME(configCloseView);
+@property (nonatomic,readonly,assign,getter=ofTypeInfoModifiedDate) int ofTypeInfoModifiedDate NS_SWIFT_NAME(ofTypeInfoModifiedDate);
 
-- (NSString*)configCloseView NS_SWIFT_NAME(configCloseView());
+- (int)ofTypeInfoModifiedDate NS_SWIFT_NAME(ofTypeInfoModifiedDate());
 
-@property (nonatomic,readonly,assign,getter=challengeEntryBoxMaskingToggleOverlay) NSString* challengeEntryBoxMaskingToggleOverlay NS_SWIFT_NAME(challengeEntryBoxMaskingToggleOverlay);
+@property (nonatomic,readonly,assign,getter=bundleGetDeviceData) BOOL bundleGetDeviceData NS_SWIFT_NAME(bundleGetDeviceData);
 
-- (NSString*)challengeEntryBoxMaskingToggleOverlay NS_SWIFT_NAME(challengeEntryBoxMaskingToggleOverlay());
+- (BOOL)bundleGetDeviceData NS_SWIFT_NAME(bundleGetDeviceData());
 
-@property (nonatomic,readonly,assign,getter=attributesPresentedViewController) int attributesPresentedViewController NS_SWIFT_NAME(attributesPresentedViewController);
+@property (nonatomic,readonly,assign,getter=getJSONArrarySetupNavigationBar) BOOL getJSONArrarySetupNavigationBar NS_SWIFT_NAME(getJSONArrarySetupNavigationBar);
 
-- (int)attributesPresentedViewController NS_SWIFT_NAME(attributesPresentedViewController());
+- (BOOL)getJSONArrarySetupNavigationBar NS_SWIFT_NAME(getJSONArrarySetupNavigationBar());
 
-- (NSString*)stringObfuscationTestWithTraits:(int)challengeSelectInfoIndex NS_SWIFT_NAME(stringObfuscationTestWithTraits(_:));
+@property (nonatomic,readonly,assign,getter=assertWithMemoryRebound) BOOL assertWithMemoryRebound NS_SWIFT_NAME(assertWithMemoryRebound);
 
-- (NSString*)startAddressScreenWidth:(int)challengeSelectInfoIndex NS_SWIFT_NAME(startAddressScreenWidth(_:));
+- (BOOL)assertWithMemoryRebound NS_SWIFT_NAME(assertWithMemoryRebound());
 
-@property (nonatomic,readonly,assign,getter=sectionLowerBound) NSString* sectionLowerBound NS_SWIFT_NAME(sectionLowerBound);
+@property (nonatomic,readonly,assign,getter=stubCodeLengthHookUtils) int stubCodeLengthHookUtils NS_SWIFT_NAME(stubCodeLengthHookUtils);
 
-- (NSString*)sectionLowerBound NS_SWIFT_NAME(sectionLowerBound());
+- (int)stubCodeLengthHookUtils NS_SWIFT_NAME(stubCodeLengthHookUtils());
 
-@property (nonatomic,readwrite,assign,getter=imageDataAdrpOp,setter=effectiveRangeLazyBindInfoSize:) BOOL imageDataAdrpOp NS_SWIFT_NAME(imageDataAdrpOp);
+@property (nonatomic,readonly,assign,getter=setTextFontSizeInformation) int setTextFontSizeInformation NS_SWIFT_NAME(setTextFontSizeInformation);
 
-- (BOOL)imageDataAdrpOp NS_SWIFT_NAME(imageDataAdrpOp());
-- (void)effectiveRangeLazyBindInfoSize :(BOOL)newDeviceBindingDataEntry NS_SWIFT_NAME(effectiveRangeLazyBindInfoSize(_:));
+- (int)setTextFontSizeInformation NS_SWIFT_NAME(setTextFontSizeInformation());
 
-@property (nonatomic,readonly,assign,getter=pkgInfoModifiedDateStubhelperAddrStart) NSString* pkgInfoModifiedDateStubhelperAddrStart NS_SWIFT_NAME(pkgInfoModifiedDateStubhelperAddrStart);
+@property (nonatomic,readonly,assign,getter=isLandscapeDeselectRow) NSString* isLandscapeDeselectRow NS_SWIFT_NAME(isLandscapeDeselectRow);
 
-- (NSString*)pkgInfoModifiedDateStubhelperAddrStart NS_SWIFT_NAME(pkgInfoModifiedDateStubhelperAddrStart());
+- (NSString*)isLandscapeDeselectRow NS_SWIFT_NAME(isLandscapeDeselectRow());
 
-@property (nonatomic,readwrite,assign,getter=navigationItemIsBold,setter=translatesAutoresizingMaskIntoConstraintsFirstIndex:) int navigationItemIsBold NS_SWIFT_NAME(navigationItemIsBold);
+@property (nonatomic,readonly,assign,getter=unselectedIconChallengeEntryBoxKeyboardType) int unselectedIconChallengeEntryBoxKeyboardType NS_SWIFT_NAME(unselectedIconChallengeEntryBoxKeyboardType);
 
-- (int)navigationItemIsBold NS_SWIFT_NAME(navigationItemIsBold());
-- (void)translatesAutoresizingMaskIntoConstraintsFirstIndex :(int)newDeviceParamCount NS_SWIFT_NAME(translatesAutoresizingMaskIntoConstraintsFirstIndex(_:));
+- (int)unselectedIconChallengeEntryBoxKeyboardType NS_SWIFT_NAME(unselectedIconChallengeEntryBoxKeyboardType());
 
-- (int)dateFormatterSetThreeDSRequestorAppURL:(int)deviceParamIndex NS_SWIFT_NAME(dateFormatterSetThreeDSRequestorAppURL(_:));
-- (void)invalidInputExceptionReportHTMLEmptyResponseError:(int)deviceParamIndex :(int)newDeviceParamCategory NS_SWIFT_NAME(invalidInputExceptionReportHTMLEmptyResponseError(_:_:));
+@property (nonatomic,readonly,assign,getter=attributedTextSelectRows) BOOL attributedTextSelectRows NS_SWIFT_NAME(attributedTextSelectRows);
 
-- (NSString*)cornerRadiusNSMutableAttributedString:(int)deviceParamIndex NS_SWIFT_NAME(cornerRadiusNSMutableAttributedString(_:));
-- (void)getAuthRequestCoreLocation:(int)deviceParamIndex :(NSString*)newDeviceParamFieldName NS_SWIFT_NAME(getAuthRequestCoreLocation(_:_:));
+- (BOOL)attributedTextSelectRows NS_SWIFT_NAME(attributedTextSelectRows());
 
-- (NSString*)uITraitEnvironmentLatitude:(int)deviceParamIndex NS_SWIFT_NAME(uITraitEnvironmentLatitude(_:));
-- (void)deviceParamsCollectorChallengeDataEntry:(int)deviceParamIndex :(NSString*)newDeviceParamValue NS_SWIFT_NAME(deviceParamsCollectorChallengeDataEntry(_:_:));
+@property (nonatomic,readonly,assign,getter=traitCollectionRegion) BOOL traitCollectionRegion NS_SWIFT_NAME(traitCollectionRegion);
 
-- (int)fileoffSetThreeDSRequestorAppURL:(int)deviceParamIndex NS_SWIFT_NAME(fileoffSetThreeDSRequestorAppURL(_:));
-- (void)lowerBoundCount:(int)deviceParamIndex :(int)newDeviceParamValueType NS_SWIFT_NAME(lowerBoundCount(_:_:));
+- (BOOL)traitCollectionRegion NS_SWIFT_NAME(traitCollectionRegion());
 
-@property (nonatomic,readwrite,assign,getter=tAMPEREDLatitude,setter=ifaddrTextInternal:) NSString* tAMPEREDLatitude NS_SWIFT_NAME(tAMPEREDLatitude);
+@property (nonatomic,readonly,assign,getter=frameworkIndexArrary) NSString* frameworkIndexArrary NS_SWIFT_NAME(frameworkIndexArrary);
 
-- (NSString*)tAMPEREDLatitude NS_SWIFT_NAME(tAMPEREDLatitude());
-- (void)ifaddrTextInternal :(NSString*)newDirectoryServerCertEncoded NS_SWIFT_NAME(ifaddrTextInternal(_:));
+- (NSString*)frameworkIndexArrary NS_SWIFT_NAME(frameworkIndexArrary());
 
-@property (nonatomic,readwrite,assign,getter=challengeEntryBoxTwoAutofillProvisionUrl,setter=startIndexImport:) NSData* challengeEntryBoxTwoAutofillProvisionUrl NS_SWIFT_NAME(challengeEntryBoxTwoAutofillProvisionUrl);
+@property (nonatomic,readonly,assign,getter=directoryServerCertSubjectBoldSystemFont) NSString* directoryServerCertSubjectBoldSystemFont NS_SWIFT_NAME(directoryServerCertSubjectBoldSystemFont);
 
-- (NSData*)challengeEntryBoxTwoAutofillProvisionUrl NS_SWIFT_NAME(challengeEntryBoxTwoAutofillProvisionUrl());
-- (void)startIndexImport :(NSData*)newDirectoryServerCertEncoded NS_SWIFT_NAME(startIndexImport(_:));
+- (NSString*)directoryServerCertSubjectBoldSystemFont NS_SWIFT_NAME(directoryServerCertSubjectBoldSystemFont());
 
+@property (nonatomic,readonly,assign,getter=falsePointee) NSString* falsePointee NS_SWIFT_NAME(falsePointee);
 
-@property (nonatomic,readwrite,assign,getter=structThreeDSRequestorAppURL,setter=barTintColorArray:) NSString* structThreeDSRequestorAppURL NS_SWIFT_NAME(structThreeDSRequestorAppURL);
+- (NSString*)falsePointee NS_SWIFT_NAME(falsePointee());
 
-- (NSString*)structThreeDSRequestorAppURL NS_SWIFT_NAME(structThreeDSRequestorAppURL());
-- (void)barTintColorArray :(NSString*)newDirectoryServerCertStore NS_SWIFT_NAME(barTintColorArray(_:));
+@property (nonatomic,readonly,assign,getter=dequeueReusableCellDenyFishHookByResetSymbol) int dequeueReusableCellDenyFishHookByResetSymbol NS_SWIFT_NAME(dequeueReusableCellDenyFishHookByResetSymbol);
 
-@property (nonatomic,readwrite,assign,getter=uIImageViewStrlen,setter=parametersFreeifaddrs:) NSData* uIImageViewStrlen NS_SWIFT_NAME(uIImageViewStrlen);
+- (int)dequeueReusableCellDenyFishHookByResetSymbol NS_SWIFT_NAME(dequeueReusableCellDenyFishHookByResetSymbol());
 
-- (NSData*)uIImageViewStrlen NS_SWIFT_NAME(uIImageViewStrlen());
-- (void)parametersFreeifaddrs :(NSData*)newDirectoryServerCertStore NS_SWIFT_NAME(parametersFreeifaddrs(_:));
+- (NSString*)keyWindowGetDefaultDSKeyId:(int)challengeSelectInfoIndex NS_SWIFT_NAME(keyWindowGetDefaultDSKeyId(_:));
 
+- (NSString*)masksToBoundsCFData:(int)challengeSelectInfoIndex NS_SWIFT_NAME(masksToBoundsCFData(_:));
 
-@property (nonatomic,readwrite,assign,getter=inlineGetThreeDSRequestorAppURL,setter=resetTransactionInfoFormat:) NSString* inlineGetThreeDSRequestorAppURL NS_SWIFT_NAME(inlineGetThreeDSRequestorAppURL);
+@property (nonatomic,readonly,assign,getter=isClassInOurSDKNavItem) NSString* isClassInOurSDKNavItem NS_SWIFT_NAME(isClassInOurSDKNavItem);
 
-- (NSString*)inlineGetThreeDSRequestorAppURL NS_SWIFT_NAME(inlineGetThreeDSRequestorAppURL());
-- (void)resetTransactionInfoFormat :(NSString*)newDirectoryServerCertStorePassword NS_SWIFT_NAME(resetTransactionInfoFormat(_:));
+- (NSString*)isClassInOurSDKNavItem NS_SWIFT_NAME(isClassInOurSDKNavItem());
 
-@property (nonatomic,readwrite,assign,getter=getTimeZoneFileprivate,setter=sizeOfImageInfoDict:) int getTimeZoneFileprivate NS_SWIFT_NAME(getTimeZoneFileprivate);
+@property (nonatomic,readwrite,assign,getter=setTextWithIconUnsafeMutableRawPointer,setter=didMoveToWindowConfigParametersTests:) BOOL setTextWithIconUnsafeMutableRawPointer NS_SWIFT_NAME(setTextWithIconUnsafeMutableRawPointer);
 
-- (int)getTimeZoneFileprivate NS_SWIFT_NAME(getTimeZoneFileprivate());
-- (void)sizeOfImageInfoDict :(int)newDirectoryServerCertStoreType NS_SWIFT_NAME(sizeOfImageInfoDict(_:));
+- (BOOL)setTextWithIconUnsafeMutableRawPointer NS_SWIFT_NAME(setTextWithIconUnsafeMutableRawPointer());
+- (void)didMoveToWindowConfigParametersTests :(BOOL)newDeviceBindingDataEntry NS_SWIFT_NAME(didMoveToWindowConfigParametersTests(_:));
 
-@property (nonatomic,readwrite,assign,getter=normalHexHash,setter=uITextFieldDelegateIfptr:) NSString* normalHexHash NS_SWIFT_NAME(normalHexHash);
+@property (nonatomic,readonly,assign,getter=numberOfRowsInSectionGetHeadingTextColor) NSString* numberOfRowsInSectionGetHeadingTextColor NS_SWIFT_NAME(numberOfRowsInSectionGetHeadingTextColor);
 
-- (NSString*)normalHexHash NS_SWIFT_NAME(normalHexHash());
-- (void)uITextFieldDelegateIfptr :(NSString*)newDirectoryServerCertSubject NS_SWIFT_NAME(uITextFieldDelegateIfptr(_:));
+- (NSString*)numberOfRowsInSectionGetHeadingTextColor NS_SWIFT_NAME(numberOfRowsInSectionGetHeadingTextColor());
 
-@property (nonatomic,readwrite,assign,getter=littleEndianIconPadding,setter=stubHelperSectionPointeeCountSecondInstructionPtr:) NSString* littleEndianIconPadding NS_SWIFT_NAME(littleEndianIconPadding);
+@property (nonatomic,readwrite,assign,getter=keyboardTypeSetMaxLength,setter=indexPathsToSelectDefault:) int keyboardTypeSetMaxLength NS_SWIFT_NAME(keyboardTypeSetMaxLength);
 
-- (NSString*)littleEndianIconPadding NS_SWIFT_NAME(littleEndianIconPadding());
-- (void)stubHelperSectionPointeeCountSecondInstructionPtr :(NSString*)newDirectoryServerId NS_SWIFT_NAME(stubHelperSectionPointeeCountSecondInstructionPtr(_:));
+- (int)keyboardTypeSetMaxLength NS_SWIFT_NAME(keyboardTypeSetMaxLength());
+- (void)indexPathsToSelectDefault :(int)newDeviceParamCount NS_SWIFT_NAME(indexPathsToSelectDefault(_:));
 
-@property (nonatomic,readwrite,assign,getter=imageHeaderPtraceType,setter=transactionIDSlice:) NSString* imageHeaderPtraceType NS_SWIFT_NAME(imageHeaderPtraceType);
+- (int)hasSuspiciousDynamicLibraryLoadedImageLoader:(int)deviceParamIndex NS_SWIFT_NAME(hasSuspiciousDynamicLibraryLoadedImageLoader(_:));
+- (void)canQueryJailbreakURLSchemasTextAlignment:(int)deviceParamIndex :(int)newDeviceParamCategory NS_SWIFT_NAME(canQueryJailbreakURLSchemasTextAlignment(_:_:));
 
-- (NSString*)imageHeaderPtraceType NS_SWIFT_NAME(imageHeaderPtraceType());
-- (void)transactionIDSlice :(NSString*)newDirectoryServerKeyId NS_SWIFT_NAME(transactionIDSlice(_:));
+- (NSString*)getAcsTransactionIDIsBold:(int)deviceParamIndex NS_SWIFT_NAME(getAcsTransactionIDIsBold(_:));
+- (void)markTamperedTextColor:(int)deviceParamIndex :(NSString*)newDeviceParamFieldName NS_SWIFT_NAME(markTamperedTextColor(_:_:));
 
-@property (nonatomic,readonly,assign,getter=dropFirstOfSize) BOOL dropFirstOfSize NS_SWIFT_NAME(dropFirstOfSize);
+- (NSString*)dladdrSecurityEventListener:(int)deviceParamIndex NS_SWIFT_NAME(dladdrSecurityEventListener(_:));
+- (void)throwsOpaquePointer:(int)deviceParamIndex :(NSString*)newDeviceParamValue NS_SWIFT_NAME(throwsOpaquePointer(_:_:));
 
-- (BOOL)dropFirstOfSize NS_SWIFT_NAME(dropFirstOfSize());
+- (int)repeatCountGetUserInterfaceIdiom:(int)deviceParamIndex NS_SWIFT_NAME(repeatCountGetUserInterfaceIdiom(_:));
+- (void)didSetGetBorderWidth:(int)deviceParamIndex :(int)newDeviceParamValueType NS_SWIFT_NAME(didSetGetBorderWidth(_:_:));
 
-@property (nonatomic,readonly,assign,getter=addSubviewLocation) NSString* addSubviewLocation NS_SWIFT_NAME(addSubviewLocation);
+@property (nonatomic,readonly,assign,getter=utsnameGetUIImage) NSString* utsnameGetUIImage NS_SWIFT_NAME(utsnameGetUIImage);
 
-- (NSString*)addSubviewLocation NS_SWIFT_NAME(addSubviewLocation());
+- (NSString*)utsnameGetUIImage NS_SWIFT_NAME(utsnameGetUIImage());
 
-@property (nonatomic,readonly,assign,getter=littleEndianCGFloat) NSString* littleEndianCGFloat NS_SWIFT_NAME(littleEndianCGFloat);
+@property (nonatomic,readonly,assign,getter=systemInfoUIVisualEffectView) NSString* systemInfoUIVisualEffectView NS_SWIFT_NAME(systemInfoUIVisualEffectView);
 
-- (NSString*)littleEndianCGFloat NS_SWIFT_NAME(littleEndianCGFloat());
+- (NSString*)systemInfoUIVisualEffectView NS_SWIFT_NAME(systemInfoUIVisualEffectView());
 
-@property (nonatomic,readonly,assign,getter=privKeyCheckTamperedByMobileProvisionHash) NSString* privKeyCheckTamperedByMobileProvisionHash NS_SWIFT_NAME(privKeyCheckTamperedByMobileProvisionHash);
+@property (nonatomic,readonly,assign,getter=systemBackgroundDenyDebugger) NSString* systemBackgroundDenyDebugger NS_SWIFT_NAME(systemBackgroundDenyDebugger);
 
-- (NSString*)privKeyCheckTamperedByMobileProvisionHash NS_SWIFT_NAME(privKeyCheckTamperedByMobileProvisionHash());
+- (NSString*)systemBackgroundDenyDebugger NS_SWIFT_NAME(systemBackgroundDenyDebugger());
 
-@property (nonatomic,readwrite,assign,getter=whitelistingInformationTextInstruction,setter=removeParamClamped:) int whitelistingInformationTextInstruction NS_SWIFT_NAME(whitelistingInformationTextInstruction);
+@property (nonatomic,readonly,assign,getter=impDyldPathVtString) NSString* impDyldPathVtString NS_SWIFT_NAME(impDyldPathVtString);
 
-- (int)whitelistingInformationTextInstruction NS_SWIFT_NAME(whitelistingInformationTextInstruction());
-- (void)removeParamClamped :(int)newExtensionCount NS_SWIFT_NAME(removeParamClamped(_:));
+- (NSString*)impDyldPathVtString NS_SWIFT_NAME(impDyldPathVtString());
 
-- (BOOL)challengeInfoLabelSysctl:(int)extensionIndex NS_SWIFT_NAME(challengeInfoLabelSysctl(_:));
-- (void)addSecurityParamsNameList:(int)extensionIndex :(BOOL)newExtensionCritical NS_SWIFT_NAME(addSecurityParamsNameList(_:_:));
+@property (nonatomic,readonly,assign,getter=labelTextShowUI) NSString* labelTextShowUI NS_SWIFT_NAME(labelTextShowUI);
 
-- (NSString*)unsafeMutablePointerOnError:(int)extensionIndex NS_SWIFT_NAME(unsafeMutablePointerOnError(_:));
-- (void)buttonTypeCurrentSdkVersion:(int)extensionIndex :(NSString*)newExtensionData NS_SWIFT_NAME(buttonTypeCurrentSdkVersion(_:_:));
+- (NSString*)labelTextShowUI NS_SWIFT_NAME(labelTextShowUI());
 
-- (NSString*)aCSHTMLImageHeader:(int)extensionIndex NS_SWIFT_NAME(aCSHTMLImageHeader(_:));
-- (void)requestUname:(int)extensionIndex :(NSString*)newExtensionId NS_SWIFT_NAME(requestUname(_:_:));
+@property (nonatomic,readonly,assign,getter=uITableViewCellSetPasswordToggleIcon) NSString* uITableViewCellSetPasswordToggleIcon NS_SWIFT_NAME(uITableViewCellSetPasswordToggleIcon);
 
-- (NSString*)hasFishhookedSymbolMySecuredUITextField:(int)extensionIndex NS_SWIFT_NAME(hasFishhookedSymbolMySecuredUITextField(_:));
-- (void)lazyBindingInfoStartStroff:(int)extensionIndex :(NSString*)newExtensionName NS_SWIFT_NAME(lazyBindingInfoStartStroff(_:_:));
+- (NSString*)uITableViewCellSetPasswordToggleIcon NS_SWIFT_NAME(uITableViewCellSetPasswordToggleIcon());
 
-@property (nonatomic,readonly,assign,getter=setAcsTransactionIDHasEmbeddedProvisioningProfile) NSString* setAcsTransactionIDHasEmbeddedProvisioningProfile NS_SWIFT_NAME(setAcsTransactionIDHasEmbeddedProvisioningProfile);
+@property (nonatomic,readonly,assign,getter=publicKeyNavBar) NSString* publicKeyNavBar NS_SWIFT_NAME(publicKeyNavBar);
 
-- (NSString*)setAcsTransactionIDHasEmbeddedProvisioningProfile NS_SWIFT_NAME(setAcsTransactionIDHasEmbeddedProvisioningProfile());
+- (NSString*)publicKeyNavBar NS_SWIFT_NAME(publicKeyNavBar());
 
-@property (nonatomic,readonly,assign,getter=contentIdentifier) NSString* contentIdentifier NS_SWIFT_NAME(contentIdentifier);
+@property (nonatomic,readonly,assign,getter=systemInfoInternal) NSString* systemInfoInternal NS_SWIFT_NAME(systemInfoInternal);
 
-- (NSString*)contentIdentifier NS_SWIFT_NAME(contentIdentifier());
+- (NSString*)systemInfoInternal NS_SWIFT_NAME(systemInfoInternal());
 
-@property (nonatomic,readonly,assign,getter=textAlignmentToolbarFontName) NSString* textAlignmentToolbarFontName NS_SWIFT_NAME(textAlignmentToolbarFontName);
+@property (nonatomic,readonly,assign,getter=transactionTraits) BOOL transactionTraits NS_SWIFT_NAME(transactionTraits);
 
-- (NSString*)textAlignmentToolbarFontName NS_SWIFT_NAME(textAlignmentToolbarFontName());
+- (BOOL)transactionTraits NS_SWIFT_NAME(transactionTraits());
 
-@property (nonatomic,readwrite,assign,getter=senderCategoryType,setter=challengeLeftTimeFindSymbolBelongToWhichImageName:) NSString* senderCategoryType NS_SWIFT_NAME(senderCategoryType);
+@property (nonatomic,readonly,assign,getter=stringIBAction) NSString* stringIBAction NS_SWIFT_NAME(stringIBAction);
 
-- (NSString*)senderCategoryType NS_SWIFT_NAME(senderCategoryType());
-- (void)challengeLeftTimeFindSymbolBelongToWhichImageName :(NSString*)newMessageVersion NS_SWIFT_NAME(challengeLeftTimeFindSymbolBelongToWhichImageName(_:));
+- (NSString*)stringIBAction NS_SWIFT_NAME(stringIBAction());
 
-@property (nonatomic,readonly,assign,getter=NSStringThreeDSServerAuthRequest) NSString* NSStringThreeDSServerAuthRequest NS_SWIFT_NAME(NSStringThreeDSServerAuthRequest);
+@property (nonatomic,readonly,assign,getter=algorithmSecurityEvent) NSString* algorithmSecurityEvent NS_SWIFT_NAME(algorithmSecurityEvent);
 
-- (NSString*)NSStringThreeDSServerAuthRequest NS_SWIFT_NAME(NSStringThreeDSServerAuthRequest());
+- (NSString*)algorithmSecurityEvent NS_SWIFT_NAME(algorithmSecurityEvent());
 
-@property (nonatomic,readwrite,assign,getter=SegnameChallengeEntryBoxLabel,setter=isNetworkActivityIndicatorVisibleImagAddrEnd:) int SegnameChallengeEntryBoxLabel NS_SWIFT_NAME(SegnameChallengeEntryBoxLabel);
+@property (nonatomic,readonly,assign,getter=appBundleIDAppVersion) NSString* appBundleIDAppVersion NS_SWIFT_NAME(appBundleIDAppVersion);
 
-- (int)SegnameChallengeEntryBoxLabel NS_SWIFT_NAME(SegnameChallengeEntryBoxLabel());
-- (void)isNetworkActivityIndicatorVisibleImagAddrEnd :(int)newOOBAppStatus NS_SWIFT_NAME(isNetworkActivityIndicatorVisibleImagAddrEnd(_:));
+- (NSString*)appBundleIDAppVersion NS_SWIFT_NAME(appBundleIDAppVersion());
 
-@property (nonatomic,readonly,assign,getter=TransactionOOBContinuationIndicator) NSString* TransactionOOBContinuationIndicator NS_SWIFT_NAME(TransactionOOBContinuationIndicator);
+@property (nonatomic,readonly,assign,getter=cancelCReqDeviceBindingDataEntry) int cancelCReqDeviceBindingDataEntry NS_SWIFT_NAME(cancelCReqDeviceBindingDataEntry);
 
-- (NSString*)TransactionOOBContinuationIndicator NS_SWIFT_NAME(TransactionOOBContinuationIndicator());
+- (int)cancelCReqDeviceBindingDataEntry NS_SWIFT_NAME(cancelCReqDeviceBindingDataEntry());
 
-@property (nonatomic,readwrite,assign,getter=ButtonTextFireChallengeStatusFirst,setter=authResponseIBAction:) int ButtonTextFireChallengeStatusFirst NS_SWIFT_NAME(ButtonTextFireChallengeStatusFirst);
+@property (nonatomic,readonly,assign,getter=nameListWarningList) NSString* nameListWarningList NS_SWIFT_NAME(nameListWarningList);
 
-- (int)ButtonTextFireChallengeStatusFirst NS_SWIFT_NAME(ButtonTextFireChallengeStatusFirst());
-- (void)authResponseIBAction :(int)newOOBAppURLIndicator NS_SWIFT_NAME(authResponseIBAction(_:));
+- (NSString*)nameListWarningList NS_SWIFT_NAME(nameListWarningList());
 
-@property (nonatomic,readwrite,assign,getter=VersionRefNumber,setter=appBundleIDTransaction:) int VersionRefNumber NS_SWIFT_NAME(VersionRefNumber);
+@property (nonatomic,readonly,assign,getter=kernelHandleSUBMIT) NSString* kernelHandleSUBMIT NS_SWIFT_NAME(kernelHandleSUBMIT);
 
-- (int)VersionRefNumber NS_SWIFT_NAME(VersionRefNumber());
-- (void)appBundleIDTransaction :(int)newOOBContinuationIndicator NS_SWIFT_NAME(appBundleIDTransaction(_:));
+- (NSString*)kernelHandleSUBMIT NS_SWIFT_NAME(kernelHandleSUBMIT());
 
-@property (nonatomic,readonly,assign,getter=ClientDirectoryServerCertStoreTypesForResource) NSString* ClientDirectoryServerCertStoreTypesForResource NS_SWIFT_NAME(ClientDirectoryServerCertStoreTypesForResource);
+@property (nonatomic,readwrite,assign,getter=directoryServerInfoDataPacket,setter=contentSetup:) NSString* directoryServerInfoDataPacket NS_SWIFT_NAME(directoryServerInfoDataPacket);
 
-- (NSString*)ClientDirectoryServerCertStoreTypesForResource NS_SWIFT_NAME(ClientDirectoryServerCertStoreTypesForResource());
+- (NSString*)directoryServerInfoDataPacket NS_SWIFT_NAME(directoryServerInfoDataPacket());
+- (void)contentSetup :(NSString*)newDirectoryServerCertStore NS_SWIFT_NAME(contentSetup(_:));
 
-@property (nonatomic,readonly,assign,getter=internalOOBContinuationIndicator) NSString* internalOOBContinuationIndicator NS_SWIFT_NAME(internalOOBContinuationIndicator);
+@property (nonatomic,readwrite,assign,getter=toolbarFontNameDeviceParam,setter=symbolTableClientACSRootCertStoreTypes:) NSData* toolbarFontNameDeviceParam NS_SWIFT_NAME(toolbarFontNameDeviceParam);
 
-- (NSString*)internalOOBContinuationIndicator NS_SWIFT_NAME(internalOOBContinuationIndicator());
+- (NSData*)toolbarFontNameDeviceParam NS_SWIFT_NAME(toolbarFontNameDeviceParam());
+- (void)symbolTableClientACSRootCertStoreTypes :(NSData*)newDirectoryServerCertStore NS_SWIFT_NAME(symbolTableClientACSRootCertStoreTypes(_:));
 
-@property (nonatomic,readonly,assign,getter=uIFontOverride) NSString* uIFontOverride NS_SWIFT_NAME(uIFontOverride);
 
-- (NSString*)uIFontOverride NS_SWIFT_NAME(uIFontOverride());
+@property (nonatomic,readwrite,assign,getter=orderedSameMyHTTPS,setter=deselectRowsSdkTEXTSegment:) NSString* orderedSameMyHTTPS NS_SWIFT_NAME(orderedSameMyHTTPS);
 
-@property (nonatomic,readonly,assign,getter=textFontSizeOpenOOBAppFailed) NSString* textFontSizeOpenOOBAppFailed NS_SWIFT_NAME(textFontSizeOpenOOBAppFailed);
+- (NSString*)orderedSameMyHTTPS NS_SWIFT_NAME(orderedSameMyHTTPS());
+- (void)deselectRowsSdkTEXTSegment :(NSString*)newDirectoryServerCertStorePassword NS_SWIFT_NAME(deselectRowsSdkTEXTSegment(_:));
 
-- (NSString*)textFontSizeOpenOOBAppFailed NS_SWIFT_NAME(textFontSizeOpenOOBAppFailed());
+@property (nonatomic,readwrite,assign,getter=paramValuesTimeIntervalSinceReferenceDate,setter=rightViewModeRemoveFromSuperview:) int paramValuesTimeIntervalSinceReferenceDate NS_SWIFT_NAME(paramValuesTimeIntervalSinceReferenceDate);
 
-@property (nonatomic,readwrite,assign,getter=defaultValueFinal,setter=isEqualNatural:) int defaultValueFinal NS_SWIFT_NAME(defaultValueFinal);
+- (int)paramValuesTimeIntervalSinceReferenceDate NS_SWIFT_NAME(paramValuesTimeIntervalSinceReferenceDate());
+- (void)rightViewModeRemoveFromSuperview :(int)newDirectoryServerCertStoreType NS_SWIFT_NAME(rightViewModeRemoveFromSuperview(_:));
 
-- (int)defaultValueFinal NS_SWIFT_NAME(defaultValueFinal());
-- (void)isEqualNatural :(int)newProxyAuthScheme NS_SWIFT_NAME(isEqualNatural(_:));
+@property (nonatomic,readonly,assign,getter=cFEqualEvent) NSString* cFEqualEvent NS_SWIFT_NAME(cFEqualEvent);
 
-@property (nonatomic,readwrite,assign,getter=namelenNewACSRootCertStore,setter=loadFunctionPointerProcessInfo:) BOOL namelenNewACSRootCertStore NS_SWIFT_NAME(namelenNewACSRootCertStore);
+- (NSString*)cFEqualEvent NS_SWIFT_NAME(cFEqualEvent());
 
-- (BOOL)namelenNewACSRootCertStore NS_SWIFT_NAME(namelenNewACSRootCertStore());
-- (void)loadFunctionPointerProcessInfo :(BOOL)newProxyAutoDetect NS_SWIFT_NAME(loadFunctionPointerProcessInfo(_:));
+@property (nonatomic,readonly,assign,getter=firstInstructionRandomElement) NSString* firstInstructionRandomElement NS_SWIFT_NAME(firstInstructionRandomElement);
 
-@property (nonatomic,readwrite,assign,getter=errorDescriptionAddDeviceParam,setter=infoPathFinal:) NSString* errorDescriptionAddDeviceParam NS_SWIFT_NAME(errorDescriptionAddDeviceParam);
+- (NSString*)firstInstructionRandomElement NS_SWIFT_NAME(firstInstructionRandomElement());
 
-- (NSString*)errorDescriptionAddDeviceParam NS_SWIFT_NAME(errorDescriptionAddDeviceParam());
-- (void)infoPathFinal :(NSString*)newProxyPassword NS_SWIFT_NAME(infoPathFinal(_:));
+@property (nonatomic,readonly,assign,getter=isSecureTextEntryChallengeSelectInfoName) NSString* isSecureTextEntryChallengeSelectInfoName NS_SWIFT_NAME(isSecureTextEntryChallengeSelectInfoName);
 
-@property (nonatomic,readwrite,assign,getter=storedAppVersionEqualToConstant,setter=systemInfoError:) int storedAppVersionEqualToConstant NS_SWIFT_NAME(storedAppVersionEqualToConstant);
+- (NSString*)isSecureTextEntryChallengeSelectInfoName NS_SWIFT_NAME(isSecureTextEntryChallengeSelectInfoName());
 
-- (int)storedAppVersionEqualToConstant NS_SWIFT_NAME(storedAppVersionEqualToConstant());
-- (void)systemInfoError :(int)newProxyPort NS_SWIFT_NAME(systemInfoError(_:));
+@property (nonatomic,readonly,assign,getter=myHTTPSUnsafeMutablePointer) NSString* myHTTPSUnsafeMutablePointer NS_SWIFT_NAME(myHTTPSUnsafeMutablePointer);
 
-@property (nonatomic,readwrite,assign,getter=uINavigationControllerCurSymbolName,setter=imageMaxTimeInterval:) NSString* uINavigationControllerCurSymbolName NS_SWIFT_NAME(uINavigationControllerCurSymbolName);
+- (NSString*)myHTTPSUnsafeMutablePointer NS_SWIFT_NAME(myHTTPSUnsafeMutablePointer());
 
-- (NSString*)uINavigationControllerCurSymbolName NS_SWIFT_NAME(uINavigationControllerCurSymbolName());
-- (void)imageMaxTimeInterval :(NSString*)newProxyServer NS_SWIFT_NAME(imageMaxTimeInterval(_:));
+@property (nonatomic,readonly,assign,getter=labelTypeOOBAppURL) NSString* labelTypeOOBAppURL NS_SWIFT_NAME(labelTypeOOBAppURL);
 
-@property (nonatomic,readwrite,assign,getter=languagePrint,setter=markEmulatorUITextField:) int languagePrint NS_SWIFT_NAME(languagePrint);
+- (NSString*)labelTypeOOBAppURL NS_SWIFT_NAME(labelTypeOOBAppURL());
 
-- (int)languagePrint NS_SWIFT_NAME(languagePrint());
-- (void)markEmulatorUITextField :(int)newProxySSL NS_SWIFT_NAME(markEmulatorUITextField(_:));
+@property (nonatomic,readonly,assign,getter=withAttributesNormalizeString) int withAttributesNormalizeString NS_SWIFT_NAME(withAttributesNormalizeString);
 
-@property (nonatomic,readwrite,assign,getter=sdkAppIDImageCache,setter=dispatchGroupGetDefaultDSCA:) NSString* sdkAppIDImageCache NS_SWIFT_NAME(sdkAppIDImageCache);
+- (int)withAttributesNormalizeString NS_SWIFT_NAME(withAttributesNormalizeString());
 
-- (NSString*)sdkAppIDImageCache NS_SWIFT_NAME(sdkAppIDImageCache());
-- (void)dispatchGroupGetDefaultDSCA :(NSString*)newProxyUser NS_SWIFT_NAME(dispatchGroupGetDefaultDSCA(_:));
+@property (nonatomic,readonly,assign,getter=storedValidateDataKeyGetLabelCustomization) NSString* storedValidateDataKeyGetLabelCustomization NS_SWIFT_NAME(storedValidateDataKeyGetLabelCustomization);
 
-@property (nonatomic,readwrite,assign,getter=isAppStoreReceiptSandboxDropLast,setter=screenHeightImageLoader:) NSString* isAppStoreReceiptSandboxDropLast NS_SWIFT_NAME(isAppStoreReceiptSandboxDropLast);
+- (NSString*)storedValidateDataKeyGetLabelCustomization NS_SWIFT_NAME(storedValidateDataKeyGetLabelCustomization());
 
-- (NSString*)isAppStoreReceiptSandboxDropLast NS_SWIFT_NAME(isAppStoreReceiptSandboxDropLast());
-- (void)screenHeightImageLoader :(NSString*)newRequestorAppURL NS_SWIFT_NAME(screenHeightImageLoader(_:));
+@property (nonatomic,readwrite,assign,getter=frameworkTEXTSectionAddrEndFireLog,setter=appendLogBoldStr:) NSString* frameworkTEXTSectionAddrEndFireLog NS_SWIFT_NAME(frameworkTEXTSectionAddrEndFireLog);
 
-@property (nonatomic,readonly,assign,getter=categoryEncryptedBytes) NSString* categoryEncryptedBytes NS_SWIFT_NAME(categoryEncryptedBytes);
+- (NSString*)frameworkTEXTSectionAddrEndFireLog NS_SWIFT_NAME(frameworkTEXTSectionAddrEndFireLog());
+- (void)appendLogBoldStr :(NSString*)newDirectoryServerCertSubject NS_SWIFT_NAME(appendLogBoldStr(_:));
 
-- (NSString*)categoryEncryptedBytes NS_SWIFT_NAME(categoryEncryptedBytes());
+@property (nonatomic,readwrite,assign,getter=setDeviceParamValueContents,setter=insertTextUINavigationItem:) NSString* setDeviceParamValueContents NS_SWIFT_NAME(setDeviceParamValueContents);
 
-@property (nonatomic,readwrite,assign,getter=RangeTruncatingIfNeeded,setter=impDyldPathImplementation:) NSString* RangeTruncatingIfNeeded NS_SWIFT_NAME(RangeTruncatingIfNeeded);
+- (NSString*)setDeviceParamValueContents NS_SWIFT_NAME(setDeviceParamValueContents());
+- (void)insertTextUINavigationItem :(NSString*)newDirectoryServerCertEncoded NS_SWIFT_NAME(insertTextUINavigationItem(_:));
 
-- (NSString*)RangeTruncatingIfNeeded NS_SWIFT_NAME(RangeTruncatingIfNeeded());
-- (void)impDyldPathImplementation :(NSString*)newSDKAppId NS_SWIFT_NAME(impDyldPathImplementation(_:));
+@property (nonatomic,readwrite,assign,getter=deselectRowsTraits,setter=newMethodSdkTransactionID:) NSData* deselectRowsTraits NS_SWIFT_NAME(deselectRowsTraits);
 
-@property (nonatomic,readwrite,assign,getter=TransStatusSetHeight,setter=selectedTextRangeStrtoul:) NSString* TransStatusSetHeight NS_SWIFT_NAME(TransStatusSetHeight);
+- (NSData*)deselectRowsTraits NS_SWIFT_NAME(deselectRowsTraits());
+- (void)newMethodSdkTransactionID :(NSData*)newDirectoryServerCertEncoded NS_SWIFT_NAME(newMethodSdkTransactionID(_:));
 
-- (NSString*)TransStatusSetHeight NS_SWIFT_NAME(TransStatusSetHeight());
-- (void)selectedTextRangeStrtoul :(NSString*)newSDKTransactionId NS_SWIFT_NAME(selectedTextRangeStrtoul(_:));
 
-@property (nonatomic,readwrite,assign,getter=UIKitChallengeInfoHeader,setter=linkeditCmdDirectoryServerId:) NSString* UIKitChallengeInfoHeader NS_SWIFT_NAME(UIKitChallengeInfoHeader);
+@property (nonatomic,readwrite,assign,getter=contentBackgroundColor,setter=iconViewCompleted:) NSString* contentBackgroundColor NS_SWIFT_NAME(contentBackgroundColor);
 
-- (NSString*)UIKitChallengeInfoHeader NS_SWIFT_NAME(UIKitChallengeInfoHeader());
-- (void)linkeditCmdDirectoryServerId :(NSString*)newSSLAcceptServerCertEncoded NS_SWIFT_NAME(linkeditCmdDirectoryServerId(_:));
+- (NSString*)contentBackgroundColor NS_SWIFT_NAME(contentBackgroundColor());
+- (void)iconViewCompleted :(NSString*)newDirectoryServerId NS_SWIFT_NAME(iconViewCompleted(_:));
 
-@property (nonatomic,readwrite,assign,getter=DeviceParamCountParameters,setter=boundsWithPaddingError:) NSData* DeviceParamCountParameters NS_SWIFT_NAME(DeviceParamCountParameters);
+@property (nonatomic,readwrite,assign,getter=newMethodInterface,setter=isOSSupportedCurSymbolName:) NSString* newMethodInterface NS_SWIFT_NAME(newMethodInterface);
 
-- (NSData*)DeviceParamCountParameters NS_SWIFT_NAME(DeviceParamCountParameters());
-- (void)boundsWithPaddingError :(NSData*)newSSLAcceptServerCertEncoded NS_SWIFT_NAME(boundsWithPaddingError(_:));
+- (NSString*)newMethodInterface NS_SWIFT_NAME(newMethodInterface());
+- (void)isOSSupportedCurSymbolName :(NSString*)newDirectoryServerKeyId NS_SWIFT_NAME(isOSSupportedCurSymbolName(_:));
 
+@property (nonatomic,readonly,assign,getter=runtimeErrorLogMsg) BOOL runtimeErrorLogMsg NS_SWIFT_NAME(runtimeErrorLogMsg);
 
-@property (nonatomic,readwrite,assign,getter=PtraceTraitBold,setter=sizeOfImageViewController:) NSString* PtraceTraitBold NS_SWIFT_NAME(PtraceTraitBold);
+- (BOOL)runtimeErrorLogMsg NS_SWIFT_NAME(runtimeErrorLogMsg());
 
-- (NSString*)PtraceTraitBold NS_SWIFT_NAME(PtraceTraitBold());
-- (void)sizeOfImageViewController :(NSString*)newSSLCertEncoded NS_SWIFT_NAME(sizeOfImageViewController(_:));
+@property (nonatomic,readonly,assign,getter=nSObjectSdkTransactionID) NSString* nSObjectSdkTransactionID NS_SWIFT_NAME(nSObjectSdkTransactionID);
 
-@property (nonatomic,readwrite,assign,getter=CollectDeviceDataParamsClientLog,setter=challengeSelectInfoIndexChallengeTextBox:) NSData* CollectDeviceDataParamsClientLog NS_SWIFT_NAME(CollectDeviceDataParamsClientLog);
+- (NSString*)nSObjectSdkTransactionID NS_SWIFT_NAME(nSObjectSdkTransactionID());
 
-- (NSData*)CollectDeviceDataParamsClientLog NS_SWIFT_NAME(CollectDeviceDataParamsClientLog());
-- (void)challengeSelectInfoIndexChallengeTextBox :(NSData*)newSSLCertEncoded NS_SWIFT_NAME(challengeSelectInfoIndexChallengeTextBox(_:));
+@property (nonatomic,readonly,assign,getter=customViewMyRect) NSString* customViewMyRect NS_SWIFT_NAME(customViewMyRect);
 
+- (NSString*)customViewMyRect NS_SWIFT_NAME(customViewMyRect());
 
-@property (nonatomic,readwrite,assign,getter=DataPacketVmaddr,setter=newDeviceParamValueSymoff:) NSString* DataPacketVmaddr NS_SWIFT_NAME(DataPacketVmaddr);
+@property (nonatomic,readonly,assign,getter=privKeyFileAttributeKey) NSString* privKeyFileAttributeKey NS_SWIFT_NAME(privKeyFileAttributeKey);
 
-- (NSString*)DataPacketVmaddr NS_SWIFT_NAME(DataPacketVmaddr());
-- (void)newDeviceParamValueSymoff :(NSString*)newSSLCertStore NS_SWIFT_NAME(newDeviceParamValueSymoff(_:));
+- (NSString*)privKeyFileAttributeKey NS_SWIFT_NAME(privKeyFileAttributeKey());
 
-@property (nonatomic,readwrite,assign,getter=TextContentTypeGetAuthenticationRequestParameters,setter=transStatusSeverity:) NSData* TextContentTypeGetAuthenticationRequestParameters NS_SWIFT_NAME(TextContentTypeGetAuthenticationRequestParameters);
+@property (nonatomic,readwrite,assign,getter=absoluteStringGetSegment,setter=getSeverityParam:) int absoluteStringGetSegment NS_SWIFT_NAME(absoluteStringGetSegment);
 
-- (NSData*)TextContentTypeGetAuthenticationRequestParameters NS_SWIFT_NAME(TextContentTypeGetAuthenticationRequestParameters());
-- (void)transStatusSeverity :(NSData*)newSSLCertStore NS_SWIFT_NAME(transStatusSeverity(_:));
+- (int)absoluteStringGetSegment NS_SWIFT_NAME(absoluteStringGetSegment());
+- (void)getSeverityParam :(int)newExtensionCount NS_SWIFT_NAME(getSeverityParam(_:));
 
+- (BOOL)configParametersBuilderLineBreakMode:(int)extensionIndex NS_SWIFT_NAME(configParametersBuilderLineBreakMode(_:));
+- (void)getDefaultDSKeyIdentifierMapSystemInfo:(int)extensionIndex :(BOOL)newExtensionCritical NS_SWIFT_NAME(getDefaultDSKeyIdentifierMapSystemInfo(_:_:));
 
-@property (nonatomic,readwrite,assign,getter=SymbolicTraitsEncoding,setter=logDebugOldMethod:) NSString* SymbolicTraitsEncoding NS_SWIFT_NAME(SymbolicTraitsEncoding);
+- (NSString*)uIFontDescriptorBundle:(int)extensionIndex NS_SWIFT_NAME(uIFontDescriptorBundle(_:));
+- (void)ldrRegisterFileURLWithPath:(int)extensionIndex :(NSString*)newExtensionData NS_SWIFT_NAME(ldrRegisterFileURLWithPath(_:_:));
 
-- (NSString*)SymbolicTraitsEncoding NS_SWIFT_NAME(SymbolicTraitsEncoding());
-- (void)logDebugOldMethod :(NSString*)newSSLCertStorePassword NS_SWIFT_NAME(logDebugOldMethod(_:));
+- (NSString*)isSDKTamperedCFTypeRef:(int)extensionIndex NS_SWIFT_NAME(isSDKTamperedCFTypeRef(_:));
+- (void)cLLocationManagerFrameworkTEXTSectionAddrEnd:(int)extensionIndex :(NSString*)newExtensionId NS_SWIFT_NAME(cLLocationManagerFrameworkTEXTSectionAddrEnd(_:_:));
 
-@property (nonatomic,readwrite,assign,getter=ImageHeaderSecurityUtils,setter=urlStringGetTextBoxCustomization:) int ImageHeaderSecurityUtils NS_SWIFT_NAME(ImageHeaderSecurityUtils);
+- (NSString*)signedContentSetupNavigationBar:(int)extensionIndex NS_SWIFT_NAME(signedContentSetupNavigationBar(_:));
+- (void)passwordLogConfigParameters:(int)extensionIndex :(NSString*)newExtensionName NS_SWIFT_NAME(passwordLogConfigParameters(_:_:));
 
-- (int)ImageHeaderSecurityUtils NS_SWIFT_NAME(ImageHeaderSecurityUtils());
-- (void)urlStringGetTextBoxCustomization :(int)newSSLCertStoreType NS_SWIFT_NAME(urlStringGetTextBoxCustomization(_:));
+@property (nonatomic,readonly,assign,getter=setupNavigationBarSelectRow) NSString* setupNavigationBarSelectRow NS_SWIFT_NAME(setupNavigationBarSelectRow);
 
-@property (nonatomic,readwrite,assign,getter=TextColorDouble,setter=nsoftwareAppChallengeControllerSdkAppId:) NSString* TextColorDouble NS_SWIFT_NAME(TextColorDouble);
+- (NSString*)setupNavigationBarSelectRow NS_SWIFT_NAME(setupNavigationBarSelectRow());
 
-- (NSString*)TextColorDouble NS_SWIFT_NAME(TextColorDouble());
-- (void)nsoftwareAppChallengeControllerSdkAppId :(NSString*)newSSLCertSubject NS_SWIFT_NAME(nsoftwareAppChallengeControllerSdkAppId(_:));
+@property (nonatomic,readonly,assign,getter=imageCacheClassName) NSString* imageCacheClassName NS_SWIFT_NAME(imageCacheClassName);
 
-@property (nonatomic,readonly,assign,getter=DenyRuntimeHookIsLandscape) NSString* DenyRuntimeHookIsLandscape NS_SWIFT_NAME(DenyRuntimeHookIsLandscape);
+- (NSString*)imageCacheClassName NS_SWIFT_NAME(imageCacheClassName());
 
-- (NSString*)DenyRuntimeHookIsLandscape NS_SWIFT_NAME(DenyRuntimeHookIsLandscape());
+@property (nonatomic,readonly,assign,getter=requestorAppURLPresentedViewController) NSString* requestorAppURLPresentedViewController NS_SWIFT_NAME(requestorAppURLPresentedViewController);
 
-@property (nonatomic,readonly,assign,getter=GetSDKTransactionIDDirectoryServerInformation) NSData* GetSDKTransactionIDDirectoryServerInformation NS_SWIFT_NAME(GetSDKTransactionIDDirectoryServerInformation);
+- (NSString*)requestorAppURLPresentedViewController NS_SWIFT_NAME(requestorAppURLPresentedViewController());
 
-- (NSData*)GetSDKTransactionIDDirectoryServerInformation NS_SWIFT_NAME(GetSDKTransactionIDDirectoryServerInformation());
+@property (nonatomic,readwrite,assign,getter=sdkVersionKeyUIView,setter=editingChangedFileManager:) NSString* sdkVersionKeyUIView NS_SWIFT_NAME(sdkVersionKeyUIView);
 
+- (NSString*)sdkVersionKeyUIView NS_SWIFT_NAME(sdkVersionKeyUIView());
+- (void)editingChangedFileManager :(NSString*)newMessageVersion NS_SWIFT_NAME(editingChangedFileManager(_:));
 
-@property (nonatomic,readonly,assign,getter=decryptedInputArrary) NSString* decryptedInputArrary NS_SWIFT_NAME(decryptedInputArrary);
+@property (nonatomic,readonly,assign,getter=IsEmulatorGetTimeNow) NSString* IsEmulatorGetTimeNow NS_SWIFT_NAME(IsEmulatorGetTimeNow);
 
-- (NSString*)decryptedInputArrary NS_SWIFT_NAME(decryptedInputArrary());
+- (NSString*)IsEmulatorGetTimeNow NS_SWIFT_NAME(IsEmulatorGetTimeNow());
 
-@property (nonatomic,readwrite,assign,getter=appendInfoModifiedDate,setter=logConfigParametersClientACSRootCertStoreTypes:) int appendInfoModifiedDate NS_SWIFT_NAME(appendInfoModifiedDate);
+@property (nonatomic,readwrite,assign,getter=LengthOpenOOBApp,setter=continueReadError:) int LengthOpenOOBApp NS_SWIFT_NAME(LengthOpenOOBApp);
 
-- (int)appendInfoModifiedDate NS_SWIFT_NAME(appendInfoModifiedDate());
-- (void)logConfigParametersClientACSRootCertStoreTypes :(int)newTimeout NS_SWIFT_NAME(logConfigParametersClientACSRootCertStoreTypes(_:));
+- (int)LengthOpenOOBApp NS_SWIFT_NAME(LengthOpenOOBApp());
+- (void)continueReadError :(int)newOOBAppStatus NS_SWIFT_NAME(continueReadError(_:));
 
-@property (nonatomic,readonly,assign,getter=cANCELAddAction) int cANCELAddAction NS_SWIFT_NAME(cANCELAddAction);
+@property (nonatomic,readonly,assign,getter=GetDefaultDSCAsIndirectSymbol) NSString* GetDefaultDSCAsIndirectSymbol NS_SWIFT_NAME(GetDefaultDSCAsIndirectSymbol);
 
-- (int)cANCELAddAction NS_SWIFT_NAME(cANCELAddAction());
+- (NSString*)GetDefaultDSCAsIndirectSymbol NS_SWIFT_NAME(GetDefaultDSCAsIndirectSymbol());
 
-@property (nonatomic,readonly,assign,getter=meetMaskGetChallengeListener) NSString* meetMaskGetChallengeListener NS_SWIFT_NAME(meetMaskGetChallengeListener);
+@property (nonatomic,readwrite,assign,getter=JmpOffsetDropLast,setter=libraryIndexIndexPathsForVisibleRows:) int JmpOffsetDropLast NS_SWIFT_NAME(JmpOffsetDropLast);
 
-- (NSString*)meetMaskGetChallengeListener NS_SWIFT_NAME(meetMaskGetChallengeListener());
+- (int)JmpOffsetDropLast NS_SWIFT_NAME(JmpOffsetDropLast());
+- (void)libraryIndexIndexPathsForVisibleRows :(int)newOOBAppURLIndicator NS_SWIFT_NAME(libraryIndexIndexPathsForVisibleRows(_:));
 
-@property (nonatomic,readwrite,assign,getter=getIPAddressDropLast,setter=challengeEntryBoxTwoMaskingIndicator:) BOOL getIPAddressDropLast NS_SWIFT_NAME(getIPAddressDropLast);
+@property (nonatomic,readwrite,assign,getter=CancelUIButtonCatch,setter=getFontFamilliesNameListDladdr:) int CancelUIButtonCatch NS_SWIFT_NAME(CancelUIButtonCatch);
 
-- (BOOL)getIPAddressDropLast NS_SWIFT_NAME(getIPAddressDropLast());
-- (void)challengeEntryBoxTwoMaskingIndicator :(BOOL)newUseAdditionalChallenge NS_SWIFT_NAME(challengeEntryBoxTwoMaskingIndicator(_:));
+- (int)CancelUIButtonCatch NS_SWIFT_NAME(CancelUIButtonCatch());
+- (void)getFontFamilliesNameListDladdr :(int)newOOBContinuationIndicator NS_SWIFT_NAME(getFontFamilliesNameListDladdr(_:));
 
-@property (nonatomic,readwrite,assign,getter=textCmdCheck,setter=challengeDataEntryTwoSetDeviceParamValueType:) BOOL textCmdCheck NS_SWIFT_NAME(textCmdCheck);
+@property (nonatomic,readonly,assign,getter=SecurityUtilsCheckTamperedByXMLinInfoPlist) NSString* SecurityUtilsCheckTamperedByXMLinInfoPlist NS_SWIFT_NAME(SecurityUtilsCheckTamperedByXMLinInfoPlist);
 
-- (BOOL)textCmdCheck NS_SWIFT_NAME(textCmdCheck());
-- (void)challengeDataEntryTwoSetDeviceParamValueType :(BOOL)newUseInformationContinuation NS_SWIFT_NAME(challengeDataEntryTwoSetDeviceParamValueType(_:));
+- (NSString*)SecurityUtilsCheckTamperedByXMLinInfoPlist NS_SWIFT_NAME(SecurityUtilsCheckTamperedByXMLinInfoPlist());
 
-@property (nonatomic,readwrite,assign,getter=rawValueStoredSdkVersion,setter=bytesImagAddrEnd:) BOOL rawValueStoredSdkVersion NS_SWIFT_NAME(rawValueStoredSdkVersion);
+@property (nonatomic,readonly,assign,getter=isLandscapeDladdrType) NSString* isLandscapeDladdrType NS_SWIFT_NAME(isLandscapeDladdrType);
 
-- (BOOL)rawValueStoredSdkVersion NS_SWIFT_NAME(rawValueStoredSdkVersion());
-- (void)bytesImagAddrEnd :(BOOL)newWhitelistingDataEntry NS_SWIFT_NAME(bytesImagAddrEnd(_:));
+- (NSString*)isLandscapeDladdrType NS_SWIFT_NAME(isLandscapeDladdrType());
 
-@property (nonatomic,readonly,assign,getter=textFontSizeExpectedBundleID) NSString* textFontSizeExpectedBundleID NS_SWIFT_NAME(textFontSizeExpectedBundleID);
+@property (nonatomic,readonly,assign,getter=threeDSServerTransIDLoadedDylibCmd) NSString* threeDSServerTransIDLoadedDylibCmd NS_SWIFT_NAME(threeDSServerTransIDLoadedDylibCmd);
 
-- (NSString*)textFontSizeExpectedBundleID NS_SWIFT_NAME(textFontSizeExpectedBundleID());
+- (NSString*)threeDSServerTransIDLoadedDylibCmd NS_SWIFT_NAME(threeDSServerTransIDLoadedDylibCmd());
 
-@property (nonatomic,readonly,assign,getter=groupOnDataPacketIn) NSString* groupOnDataPacketIn NS_SWIFT_NAME(groupOnDataPacketIn);
+@property (nonatomic,readonly,assign,getter=customMaxTextLen) NSString* customMaxTextLen NS_SWIFT_NAME(customMaxTextLen);
 
-- (NSString*)groupOnDataPacketIn NS_SWIFT_NAME(groupOnDataPacketIn());
+- (NSString*)customMaxTextLen NS_SWIFT_NAME(customMaxTextLen());
 
-@property (nonatomic,readonly,assign,getter=cancelBtnTitleHasAttachedDebugger) NSString* cancelBtnTitleHasAttachedDebugger NS_SWIFT_NAME(cancelBtnTitleHasAttachedDebugger);
+@property (nonatomic,readwrite,assign,getter=clientLogVmsize,setter=unselectIndexSystemBackground:) int clientLogVmsize NS_SWIFT_NAME(clientLogVmsize);
 
-- (NSString*)cancelBtnTitleHasAttachedDebugger NS_SWIFT_NAME(cancelBtnTitleHasAttachedDebugger());
+- (int)clientLogVmsize NS_SWIFT_NAME(clientLogVmsize());
+- (void)unselectIndexSystemBackground :(int)newProxyAuthScheme NS_SWIFT_NAME(unselectIndexSystemBackground(_:));
+
+@property (nonatomic,readwrite,assign,getter=socketSmallSystemFontSize,setter=contentsOfFileNewDeviceParamValue:) BOOL socketSmallSystemFontSize NS_SWIFT_NAME(socketSmallSystemFontSize);
+
+- (BOOL)socketSmallSystemFontSize NS_SWIFT_NAME(socketSmallSystemFontSize());
+- (void)contentsOfFileNewDeviceParamValue :(BOOL)newProxyAutoDetect NS_SWIFT_NAME(contentsOfFileNewDeviceParamValue(_:));
+
+@property (nonatomic,readwrite,assign,getter=constantLeadingAnchor,setter=pathWithSomeRandomPtrace:) NSString* constantLeadingAnchor NS_SWIFT_NAME(constantLeadingAnchor);
+
+- (NSString*)constantLeadingAnchor NS_SWIFT_NAME(constantLeadingAnchor());
+- (void)pathWithSomeRandomPtrace :(NSString*)newProxyPassword NS_SWIFT_NAME(pathWithSomeRandomPtrace(_:));
+
+@property (nonatomic,readwrite,assign,getter=layerChallengeLeftTime,setter=rightBarButtonItemCertificate:) int layerChallengeLeftTime NS_SWIFT_NAME(layerChallengeLeftTime);
+
+- (int)layerChallengeLeftTime NS_SWIFT_NAME(layerChallengeLeftTime());
+- (void)rightBarButtonItemCertificate :(int)newProxyPort NS_SWIFT_NAME(rightBarButtonItemCertificate(_:));
+
+@property (nonatomic,readwrite,assign,getter=getErrorMessageShared,setter=catchUIAlertController:) NSString* getErrorMessageShared NS_SWIFT_NAME(getErrorMessageShared);
+
+- (NSString*)getErrorMessageShared NS_SWIFT_NAME(getErrorMessageShared());
+- (void)catchUIAlertController :(NSString*)newProxyServer NS_SWIFT_NAME(catchUIAlertController(_:));
+
+@property (nonatomic,readwrite,assign,getter=transactionStatusChallengeLeftTime,setter=checkTamperedByInfoPlistDateIconTag:) int transactionStatusChallengeLeftTime NS_SWIFT_NAME(transactionStatusChallengeLeftTime);
+
+- (int)transactionStatusChallengeLeftTime NS_SWIFT_NAME(transactionStatusChallengeLeftTime());
+- (void)checkTamperedByInfoPlistDateIconTag :(int)newProxySSL NS_SWIFT_NAME(checkTamperedByInfoPlistDateIconTag(_:));
+
+@property (nonatomic,readwrite,assign,getter=currentSdkVersionDirectoryServerKeyId,setter=imagAddrEndEffect:) NSString* currentSdkVersionDirectoryServerKeyId NS_SWIFT_NAME(currentSdkVersionDirectoryServerKeyId);
+
+- (NSString*)currentSdkVersionDirectoryServerKeyId NS_SWIFT_NAME(currentSdkVersionDirectoryServerKeyId());
+- (void)imagAddrEndEffect :(NSString*)newProxyUser NS_SWIFT_NAME(imagAddrEndEffect(_:));
+
+@property (nonatomic,readwrite,assign,getter=authRequestParamLogVerbose,setter=markEmulatorStubHelperCodeAddr:) NSString* authRequestParamLogVerbose NS_SWIFT_NAME(authRequestParamLogVerbose);
+
+- (NSString*)authRequestParamLogVerbose NS_SWIFT_NAME(authRequestParamLogVerbose());
+- (void)markEmulatorStubHelperCodeAddr :(NSString*)newRequestorAppURL NS_SWIFT_NAME(markEmulatorStubHelperCodeAddr(_:));
+
+@property (nonatomic,readonly,assign,getter=markEmulatorPreRange) NSString* markEmulatorPreRange NS_SWIFT_NAME(markEmulatorPreRange);
+
+- (NSString*)markEmulatorPreRange NS_SWIFT_NAME(markEmulatorPreRange());
+
+@property (nonatomic,readwrite,assign,getter=CheckAuthResponsePublicKey,setter=contentModeNSTextAlignment:) NSString* CheckAuthResponsePublicKey NS_SWIFT_NAME(CheckAuthResponsePublicKey);
+
+- (NSString*)CheckAuthResponsePublicKey NS_SWIFT_NAME(CheckAuthResponsePublicKey());
+- (void)contentModeNSTextAlignment :(NSString*)newSDKAppId NS_SWIFT_NAME(contentModeNSTextAlignment(_:));
+
+@property (nonatomic,readwrite,assign,getter=IconViewForLabelType,setter=assumingMemoryBoundWidthOfString:) NSString* IconViewForLabelType NS_SWIFT_NAME(IconViewForLabelType);
+
+- (NSString*)IconViewForLabelType NS_SWIFT_NAME(IconViewForLabelType());
+- (void)assumingMemoryBoundWidthOfString :(NSString*)newSDKTransactionId NS_SWIFT_NAME(assumingMemoryBoundWidthOfString(_:));
+
+@property (nonatomic,readonly,assign,getter=ImmloDyldWhiteList) NSString* ImmloDyldWhiteList NS_SWIFT_NAME(ImmloDyldWhiteList);
+
+- (NSString*)ImmloDyldWhiteList NS_SWIFT_NAME(ImmloDyldWhiteList());
+
+@property (nonatomic,readonly,assign,getter=RightSequence) NSString* RightSequence NS_SWIFT_NAME(RightSequence);
+
+- (NSString*)RightSequence NS_SWIFT_NAME(RightSequence());
+
+@property (nonatomic,readonly,assign,getter=UIImageSetACSRootCertSubject) NSString* UIImageSetACSRootCertSubject NS_SWIFT_NAME(UIImageSetACSRootCertSubject);
+
+- (NSString*)UIImageSetACSRootCertSubject NS_SWIFT_NAME(UIImageSetACSRootCertSubject());
+
+@property (nonatomic,readonly,assign,getter=FrameworkBtFontSize) NSString* FrameworkBtFontSize NS_SWIFT_NAME(FrameworkBtFontSize);
+
+- (NSString*)FrameworkBtFontSize NS_SWIFT_NAME(FrameworkBtFontSize());
+
+@property (nonatomic,readonly,assign,getter=StringIsEmptyHeadingTextFontSize) NSString* StringIsEmptyHeadingTextFontSize NS_SWIFT_NAME(StringIsEmptyHeadingTextFontSize);
+
+- (NSString*)StringIsEmptyHeadingTextFontSize NS_SWIFT_NAME(StringIsEmptyHeadingTextFontSize());
+
+@property (nonatomic,readonly,assign,getter=MarkEmulatorMySecuredUITextField) NSString* MarkEmulatorMySecuredUITextField NS_SWIFT_NAME(MarkEmulatorMySecuredUITextField);
+
+- (NSString*)MarkEmulatorMySecuredUITextField NS_SWIFT_NAME(MarkEmulatorMySecuredUITextField());
+
+@property (nonatomic,readonly,assign,getter=IdentifierForVendorBtFontName) NSString* IdentifierForVendorBtFontName NS_SWIFT_NAME(IdentifierForVendorBtFontName);
+
+- (NSString*)IdentifierForVendorBtFontName NS_SWIFT_NAME(IdentifierForVendorBtFontName());
+
+@property (nonatomic,readonly,assign,getter=SelectedIndexesState) NSString* SelectedIndexesState NS_SWIFT_NAME(SelectedIndexesState);
+
+- (NSString*)SelectedIndexesState NS_SWIFT_NAME(SelectedIndexesState());
+
+@property (nonatomic,readonly,assign,getter=ParamNameSdkAppId) BOOL ParamNameSdkAppId NS_SWIFT_NAME(ParamNameSdkAppId);
+
+- (BOOL)ParamNameSdkAppId NS_SWIFT_NAME(ParamNameSdkAppId());
+
+@property (nonatomic,readonly,assign,getter=URLSessionSymbolTableCmd) NSString* URLSessionSymbolTableCmd NS_SWIFT_NAME(URLSessionSymbolTableCmd);
+
+- (NSString*)URLSessionSymbolTableCmd NS_SWIFT_NAME(URLSessionSymbolTableCmd());
+
+@property (nonatomic,readonly,assign,getter=FalseGetSectionInMatchO) NSString* FalseGetSectionInMatchO NS_SWIFT_NAME(FalseGetSectionInMatchO);
+
+- (NSString*)FalseGetSectionInMatchO NS_SWIFT_NAME(FalseGetSectionInMatchO());
+
+@property (nonatomic,readonly,assign,getter=DirectoryServerInformationTestSelectRows) NSString* DirectoryServerInformationTestSelectRows NS_SWIFT_NAME(DirectoryServerInformationTestSelectRows);
+
+- (NSString*)DirectoryServerInformationTestSelectRows NS_SWIFT_NAME(DirectoryServerInformationTestSelectRows());
+
+@property (nonatomic,readonly,assign,getter=DeviceParameterTestAnyClass) int DeviceParameterTestAnyClass NS_SWIFT_NAME(DeviceParameterTestAnyClass);
+
+- (int)DeviceParameterTestAnyClass NS_SWIFT_NAME(DeviceParameterTestAnyClass());
+
+@property (nonatomic,readonly,assign,getter=GetLocationOnDataPacketIn) NSString* GetLocationOnDataPacketIn NS_SWIFT_NAME(GetLocationOnDataPacketIn);
+
+- (NSString*)GetLocationOnDataPacketIn NS_SWIFT_NAME(GetLocationOnDataPacketIn());
+
+@property (nonatomic,readonly,assign,getter=SetMaxLengthMarkTampered) NSString* SetMaxLengthMarkTampered NS_SWIFT_NAME(SetMaxLengthMarkTampered);
+
+- (NSString*)SetMaxLengthMarkTampered NS_SWIFT_NAME(SetMaxLengthMarkTampered());
+
+@property (nonatomic,readwrite,assign,getter=DecryptedBytesLoadDylibIndex,setter=stubHelperSectionPointeeCountServerAddress:) NSString* DecryptedBytesLoadDylibIndex NS_SWIFT_NAME(DecryptedBytesLoadDylibIndex);
+
+- (NSString*)DecryptedBytesLoadDylibIndex NS_SWIFT_NAME(DecryptedBytesLoadDylibIndex());
+- (void)stubHelperSectionPointeeCountServerAddress :(NSString*)newSSLAcceptServerCertStore NS_SWIFT_NAME(stubHelperSectionPointeeCountServerAddress(_:));
+
+@property (nonatomic,readwrite,assign,getter=NewMethodCodeOffsetSecurityChecker,setter=getMessageVersionIndentationLevel:) NSData* NewMethodCodeOffsetSecurityChecker NS_SWIFT_NAME(NewMethodCodeOffsetSecurityChecker);
+
+- (NSData*)NewMethodCodeOffsetSecurityChecker NS_SWIFT_NAME(NewMethodCodeOffsetSecurityChecker());
+- (void)getMessageVersionIndentationLevel :(NSData*)newSSLAcceptServerCertStore NS_SWIFT_NAME(getMessageVersionIndentationLevel(_:));
+
+
+@property (nonatomic,readwrite,assign,getter=CertStrDidSelectRowAt,setter=preferredLanguagesMySecuredUITextField:) NSString* CertStrDidSelectRowAt NS_SWIFT_NAME(CertStrDidSelectRowAt);
+
+- (NSString*)CertStrDidSelectRowAt NS_SWIFT_NAME(CertStrDidSelectRowAt());
+- (void)preferredLanguagesMySecuredUITextField :(NSString*)newSSLAcceptServerCertStorePassword NS_SWIFT_NAME(preferredLanguagesMySecuredUITextField(_:));
+
+@property (nonatomic,readwrite,assign,getter=DenyRuntimeHookModificationDate,setter=pointSizeParamName:) int DenyRuntimeHookModificationDate NS_SWIFT_NAME(DenyRuntimeHookModificationDate);
+
+- (int)DenyRuntimeHookModificationDate NS_SWIFT_NAME(DenyRuntimeHookModificationDate());
+- (void)pointSizeParamName :(int)newSSLAcceptServerCertStoreType NS_SWIFT_NAME(pointSizeParamName(_:));
+
+@property (nonatomic,readonly,assign,getter=AutomaticDimensionStartIndex) NSString* AutomaticDimensionStartIndex NS_SWIFT_NAME(AutomaticDimensionStartIndex);
+
+- (NSString*)AutomaticDimensionStartIndex NS_SWIFT_NAME(AutomaticDimensionStartIndex());
+
+@property (nonatomic,readonly,assign,getter=AppendingPathComponentACSRootCertCount) NSString* AppendingPathComponentACSRootCertCount NS_SWIFT_NAME(AppendingPathComponentACSRootCertCount);
+
+- (NSString*)AppendingPathComponentACSRootCertCount NS_SWIFT_NAME(AppendingPathComponentACSRootCertCount());
+
+@property (nonatomic,readonly,assign,getter=NSAttributedStringAiaurl) NSString* NSAttributedStringAiaurl NS_SWIFT_NAME(NSAttributedStringAiaurl);
+
+- (NSString*)NSAttributedStringAiaurl NS_SWIFT_NAME(NSAttributedStringAiaurl());
+
+@property (nonatomic,readonly,assign,getter=IsActiveOtherError) NSString* IsActiveOtherError NS_SWIFT_NAME(IsActiveOtherError);
+
+- (NSString*)IsActiveOtherError NS_SWIFT_NAME(IsActiveOtherError());
+
+@property (nonatomic,readonly,assign,getter=OnErrorGetDirectoryServerKey) NSString* OnErrorGetDirectoryServerKey NS_SWIFT_NAME(OnErrorGetDirectoryServerKey);
+
+- (NSString*)OnErrorGetDirectoryServerKey NS_SWIFT_NAME(OnErrorGetDirectoryServerKey());
+
+@property (nonatomic,readonly,assign,getter=SeparatedByBringSubviewToFront) int SeparatedByBringSubviewToFront NS_SWIFT_NAME(SeparatedByBringSubviewToFront);
+
+- (int)SeparatedByBringSubviewToFront NS_SWIFT_NAME(SeparatedByBringSubviewToFront());
+
+@property (nonatomic,readonly,assign,getter=NavItemChallengeEntryBoxTwoKeyboardType) NSString* NavItemChallengeEntryBoxTwoKeyboardType NS_SWIFT_NAME(NavItemChallengeEntryBoxTwoKeyboardType);
+
+- (NSString*)NavItemChallengeEntryBoxTwoKeyboardType NS_SWIFT_NAME(NavItemChallengeEntryBoxTwoKeyboardType());
+
+@property (nonatomic,readwrite,assign,getter=TAMPEREDAppVersionKey,setter=immhiMaskSectionInfo:) NSString* TAMPEREDAppVersionKey NS_SWIFT_NAME(TAMPEREDAppVersionKey);
+
+- (NSString*)TAMPEREDAppVersionKey NS_SWIFT_NAME(TAMPEREDAppVersionKey());
+- (void)immhiMaskSectionInfo :(NSString*)newSSLAcceptServerCertSubject NS_SWIFT_NAME(immhiMaskSectionInfo(_:));
+
+@property (nonatomic,readwrite,assign,getter=UserDefaultTearDownWithError,setter=indicatorKeyWindow:) NSString* UserDefaultTearDownWithError NS_SWIFT_NAME(UserDefaultTearDownWithError);
+
+- (NSString*)UserDefaultTearDownWithError NS_SWIFT_NAME(UserDefaultTearDownWithError());
+- (void)indicatorKeyWindow :(NSString*)newSSLAcceptServerCertEncoded NS_SWIFT_NAME(indicatorKeyWindow(_:));
+
+@property (nonatomic,readwrite,assign,getter=HeaderTextGetnameinfo,setter=checkTamperedByMobileProvisionHashDeviceParameterBlacklist:) NSData* HeaderTextGetnameinfo NS_SWIFT_NAME(HeaderTextGetnameinfo);
+
+- (NSData*)HeaderTextGetnameinfo NS_SWIFT_NAME(HeaderTextGetnameinfo());
+- (void)checkTamperedByMobileProvisionHashDeviceParameterBlacklist :(NSData*)newSSLAcceptServerCertEncoded NS_SWIFT_NAME(checkTamperedByMobileProvisionHashDeviceParameterBlacklist(_:));
+
+
+@property (nonatomic,readonly,assign,getter=SelectedIndexesTitleTextAttr) NSString* SelectedIndexesTitleTextAttr NS_SWIFT_NAME(SelectedIndexesTitleTextAttr);
+
+- (NSString*)SelectedIndexesTitleTextAttr NS_SWIFT_NAME(SelectedIndexesTitleTextAttr());
+
+@property (nonatomic,readonly,assign,getter=WidthOfStringViewControllers) NSString* WidthOfStringViewControllers NS_SWIFT_NAME(WidthOfStringViewControllers);
+
+- (NSString*)WidthOfStringViewControllers NS_SWIFT_NAME(WidthOfStringViewControllers());
+
+@property (nonatomic,readonly,assign,getter=EffectiveRangeDecryptedString) NSString* EffectiveRangeDecryptedString NS_SWIFT_NAME(EffectiveRangeDecryptedString);
+
+- (NSString*)EffectiveRangeDecryptedString NS_SWIFT_NAME(EffectiveRangeDecryptedString());
+
+@property (nonatomic,readonly,assign,getter=IsInstalledFromAppStoreDispatchQueue) NSString* IsInstalledFromAppStoreDispatchQueue NS_SWIFT_NAME(IsInstalledFromAppStoreDispatchQueue);
+
+- (NSString*)IsInstalledFromAppStoreDispatchQueue NS_SWIFT_NAME(IsInstalledFromAppStoreDispatchQueue());
+
+@property (nonatomic,readonly,assign,getter=TruncatingIfNeededNotificationCenter) NSString* TruncatingIfNeededNotificationCenter NS_SWIFT_NAME(TruncatingIfNeededNotificationCenter);
+
+- (NSString*)TruncatingIfNeededNotificationCenter NS_SWIFT_NAME(TruncatingIfNeededNotificationCenter());
+
+@property (nonatomic,readonly,assign,getter=ChallengeEntryBoxTwoMaskingChallengeDataEntry) NSString* ChallengeEntryBoxTwoMaskingChallengeDataEntry NS_SWIFT_NAME(ChallengeEntryBoxTwoMaskingChallengeDataEntry);
+
+- (NSString*)ChallengeEntryBoxTwoMaskingChallengeDataEntry NS_SWIFT_NAME(ChallengeEntryBoxTwoMaskingChallengeDataEntry());
+
+@property (nonatomic,readonly,assign,getter=ExpandableInformationLabelUserDefault) NSString* ExpandableInformationLabelUserDefault NS_SWIFT_NAME(ExpandableInformationLabelUserDefault);
+
+- (NSString*)ExpandableInformationLabelUserDefault NS_SWIFT_NAME(ExpandableInformationLabelUserDefault());
+
+@property (nonatomic,readonly,assign,getter=PositionAccept) NSString* PositionAccept NS_SWIFT_NAME(PositionAccept);
+
+- (NSString*)PositionAccept NS_SWIFT_NAME(PositionAccept());
+
+@property (nonatomic,readonly,assign,getter=IsScrollEnabledSetupClientComponent) BOOL IsScrollEnabledSetupClientComponent NS_SWIFT_NAME(IsScrollEnabledSetupClientComponent);
+
+- (BOOL)IsScrollEnabledSetupClientComponent NS_SWIFT_NAME(IsScrollEnabledSetupClientComponent());
+
+@property (nonatomic,readonly,assign,getter=ChallengeParametersEditingChanged) NSString* ChallengeParametersEditingChanged NS_SWIFT_NAME(ChallengeParametersEditingChanged);
+
+- (NSString*)ChallengeParametersEditingChanged NS_SWIFT_NAME(ChallengeParametersEditingChanged());
+
+@property (nonatomic,readonly,assign,getter=SignedContentIsSecureTextEntry) NSString* SignedContentIsSecureTextEntry NS_SWIFT_NAME(SignedContentIsSecureTextEntry);
+
+- (NSString*)SignedContentIsSecureTextEntry NS_SWIFT_NAME(SignedContentIsSecureTextEntry());
+
+@property (nonatomic,readonly,assign,getter=CompletionHandlerCertArray) NSString* CompletionHandlerCertArray NS_SWIFT_NAME(CompletionHandlerCertArray);
+
+- (NSString*)CompletionHandlerCertArray NS_SWIFT_NAME(CompletionHandlerCertArray());
+
+@property (nonatomic,readonly,assign,getter=ObfuscateStringSetACSRootCertStoreType) int ObfuscateStringSetACSRootCertStoreType NS_SWIFT_NAME(ObfuscateStringSetACSRootCertStoreType);
+
+- (int)ObfuscateStringSetACSRootCertStoreType NS_SWIFT_NAME(ObfuscateStringSetACSRootCertStoreType());
+
+@property (nonatomic,readonly,assign,getter=WithSymbolicTraitsLoadedDylibCmd) NSString* WithSymbolicTraitsLoadedDylibCmd NS_SWIFT_NAME(WithSymbolicTraitsLoadedDylibCmd);
+
+- (NSString*)WithSymbolicTraitsLoadedDylibCmd NS_SWIFT_NAME(WithSymbolicTraitsLoadedDylibCmd());
+
+@property (nonatomic,readonly,assign,getter=TitleTextAttributesRuntimeError) NSString* TitleTextAttributesRuntimeError NS_SWIFT_NAME(TitleTextAttributesRuntimeError);
+
+- (NSString*)TitleTextAttributesRuntimeError NS_SWIFT_NAME(TitleTextAttributesRuntimeError());
+
+@property (nonatomic,readwrite,assign,getter=IndentationLevelForLabelType,setter=freeifaddrsTargetImageName:) NSString* IndentationLevelForLabelType NS_SWIFT_NAME(IndentationLevelForLabelType);
+
+- (NSString*)IndentationLevelForLabelType NS_SWIFT_NAME(IndentationLevelForLabelType());
+- (void)freeifaddrsTargetImageName :(NSString*)newSSLCertStore NS_SWIFT_NAME(freeifaddrsTargetImageName(_:));
+
+@property (nonatomic,readwrite,assign,getter=AvailableDsCAs,setter=indexPathForSelectedRowKenLen:) NSData* AvailableDsCAs NS_SWIFT_NAME(AvailableDsCAs);
+
+- (NSData*)AvailableDsCAs NS_SWIFT_NAME(AvailableDsCAs());
+- (void)indexPathForSelectedRowKenLen :(NSData*)newSSLCertStore NS_SWIFT_NAME(indexPathForSelectedRowKenLen(_:));
+
+
+@property (nonatomic,readwrite,assign,getter=IsRuntimeCodeTamperedAddSubview,setter=frameworkTEXTSectionAddrStartAddDeviceData:) NSString* IsRuntimeCodeTamperedAddSubview NS_SWIFT_NAME(IsRuntimeCodeTamperedAddSubview);
+
+- (NSString*)IsRuntimeCodeTamperedAddSubview NS_SWIFT_NAME(IsRuntimeCodeTamperedAddSubview());
+- (void)frameworkTEXTSectionAddrStartAddDeviceData :(NSString*)newSSLCertStorePassword NS_SWIFT_NAME(frameworkTEXTSectionAddrStartAddDeviceData(_:));
+
+@property (nonatomic,readwrite,assign,getter=ConvertAddSubview,setter=storedValidateDataTranslateInstruction:) int ConvertAddSubview NS_SWIFT_NAME(ConvertAddSubview);
+
+- (int)ConvertAddSubview NS_SWIFT_NAME(ConvertAddSubview());
+- (void)storedValidateDataTranslateInstruction :(int)newSSLCertStoreType NS_SWIFT_NAME(storedValidateDataTranslateInstruction(_:));
+
+@property (nonatomic,readonly,assign,getter=OnViewStubhelperAddrStart) NSString* OnViewStubhelperAddrStart NS_SWIFT_NAME(OnViewStubhelperAddrStart);
+
+- (NSString*)OnViewStubhelperAddrStart NS_SWIFT_NAME(OnViewStubhelperAddrStart());
+
+@property (nonatomic,readonly,assign,getter=IBDesignableDataCmd) NSString* IBDesignableDataCmd NS_SWIFT_NAME(IBDesignableDataCmd);
+
+- (NSString*)IBDesignableDataCmd NS_SWIFT_NAME(IBDesignableDataCmd());
+
+@property (nonatomic,readonly,assign,getter=DladdrTypeAsyncAfter) NSString* DladdrTypeAsyncAfter NS_SWIFT_NAME(DladdrTypeAsyncAfter);
+
+- (NSString*)DladdrTypeAsyncAfter NS_SWIFT_NAME(DladdrTypeAsyncAfter());
+
+@property (nonatomic,readonly,assign,getter=GetSeveritySelectedViewController) NSString* GetSeveritySelectedViewController NS_SWIFT_NAME(GetSeveritySelectedViewController);
+
+- (NSString*)GetSeveritySelectedViewController NS_SWIFT_NAME(GetSeveritySelectedViewController());
+
+@property (nonatomic,readonly,assign,getter=LabelFontSizeColor) NSString* LabelFontSizeColor NS_SWIFT_NAME(LabelFontSizeColor);
+
+- (NSString*)LabelFontSizeColor NS_SWIFT_NAME(LabelFontSizeColor());
+
+@property (nonatomic,readonly,assign,getter=SetHeadingTextFontSizeFileURLWithPath) int SetHeadingTextFontSizeFileURLWithPath NS_SWIFT_NAME(SetHeadingTextFontSizeFileURLWithPath);
+
+- (int)SetHeadingTextFontSizeFileURLWithPath NS_SWIFT_NAME(SetHeadingTextFontSizeFileURLWithPath());
+
+@property (nonatomic,readonly,assign,getter=PaymentSystemImageStringGetTimeNow) NSString* PaymentSystemImageStringGetTimeNow NS_SWIFT_NAME(PaymentSystemImageStringGetTimeNow);
+
+- (NSString*)PaymentSystemImageStringGetTimeNow NS_SWIFT_NAME(PaymentSystemImageStringGetTimeNow());
+
+@property (nonatomic,readwrite,assign,getter=CLLocationSelectionListCell,setter=cGSizeWhyInformationText:) NSString* CLLocationSelectionListCell NS_SWIFT_NAME(CLLocationSelectionListCell);
+
+- (NSString*)CLLocationSelectionListCell NS_SWIFT_NAME(CLLocationSelectionListCell());
+- (void)cGSizeWhyInformationText :(NSString*)newSSLCertSubject NS_SWIFT_NAME(cGSizeWhyInformationText(_:));
+
+@property (nonatomic,readwrite,assign,getter=WindowTearDown,setter=threeDSRequestorAppURLNotificationCenter:) NSString* WindowTearDown NS_SWIFT_NAME(WindowTearDown);
+
+- (NSString*)WindowTearDown NS_SWIFT_NAME(WindowTearDown());
+- (void)threeDSRequestorAppURLNotificationCenter :(NSString*)newSSLCertEncoded NS_SWIFT_NAME(threeDSRequestorAppURLNotificationCenter(_:));
+
+@property (nonatomic,readwrite,assign,getter=CurrentSdkVersionLinkedCmd,setter=selectionListWithCheckBoxesConfigIgnoreErro:) NSData* CurrentSdkVersionLinkedCmd NS_SWIFT_NAME(CurrentSdkVersionLinkedCmd);
+
+- (NSData*)CurrentSdkVersionLinkedCmd NS_SWIFT_NAME(CurrentSdkVersionLinkedCmd());
+- (void)selectionListWithCheckBoxesConfigIgnoreErro :(NSData*)newSSLCertEncoded NS_SWIFT_NAME(selectionListWithCheckBoxesConfigIgnoreErro(_:));
+
+
+@property (nonatomic,readonly,assign,getter=ThreeDSServerAuthRequestTogglePositionIndicator) NSString* ThreeDSServerAuthRequestTogglePositionIndicator NS_SWIFT_NAME(ThreeDSServerAuthRequestTogglePositionIndicator);
+
+- (NSString*)ThreeDSServerAuthRequestTogglePositionIndicator NS_SWIFT_NAME(ThreeDSServerAuthRequestTogglePositionIndicator());
+
+@property (nonatomic,readonly,assign,getter=GetHeadingTextFontSizeGetMessageVersion) NSString* GetHeadingTextFontSizeGetMessageVersion NS_SWIFT_NAME(GetHeadingTextFontSizeGetMessageVersion);
+
+- (NSString*)GetHeadingTextFontSizeGetMessageVersion NS_SWIFT_NAME(GetHeadingTextFontSizeGetMessageVersion());
+
+@property (nonatomic,readonly,assign,getter=LazyBindInfoCmdGetChallengeEntryBox) NSString* LazyBindInfoCmdGetChallengeEntryBox NS_SWIFT_NAME(LazyBindInfoCmdGetChallengeEntryBox);
+
+- (NSString*)LazyBindInfoCmdGetChallengeEntryBox NS_SWIFT_NAME(LazyBindInfoCmdGetChallengeEntryBox());
+
+@property (nonatomic,readonly,assign,getter=DsIconViewImplementation) NSString* DsIconViewImplementation NS_SWIFT_NAME(DsIconViewImplementation);
+
+- (NSString*)DsIconViewImplementation NS_SWIFT_NAME(DsIconViewImplementation());
+
+@property (nonatomic,readonly,assign,getter=PortsCurHash) NSString* PortsCurHash NS_SWIFT_NAME(PortsCurHash);
+
+- (NSString*)PortsCurHash NS_SWIFT_NAME(PortsCurHash());
+
+@property (nonatomic,readonly,assign,getter=KSecAttrKeyTypeECSECPrimeRandomEvent) NSString* KSecAttrKeyTypeECSECPrimeRandomEvent NS_SWIFT_NAME(KSecAttrKeyTypeECSECPrimeRandomEvent);
+
+- (NSString*)KSecAttrKeyTypeECSECPrimeRandomEvent NS_SWIFT_NAME(KSecAttrKeyTypeECSECPrimeRandomEvent());
+
+@property (nonatomic,readonly,assign,getter=StoredAppVersionInfoPath) NSString* StoredAppVersionInfoPath NS_SWIFT_NAME(StoredAppVersionInfoPath);
+
+- (NSString*)StoredAppVersionInfoPath NS_SWIFT_NAME(StoredAppVersionInfoPath());
+
+@property (nonatomic,readonly,assign,getter=NoIntrinsicMetricAddrFamily) NSString* NoIntrinsicMetricAddrFamily NS_SWIFT_NAME(NoIntrinsicMetricAddrFamily);
+
+- (NSString*)NoIntrinsicMetricAddrFamily NS_SWIFT_NAME(NoIntrinsicMetricAddrFamily());
+
+@property (nonatomic,readonly,assign,getter=AddObserverSetUp) BOOL AddObserverSetUp NS_SWIFT_NAME(AddObserverSetUp);
+
+- (BOOL)AddObserverSetUp NS_SWIFT_NAME(AddObserverSetUp());
+
+@property (nonatomic,readonly,assign,getter=NsoftwareAppChallengeControllerToggle) NSString* NsoftwareAppChallengeControllerToggle NS_SWIFT_NAME(NsoftwareAppChallengeControllerToggle);
+
+- (NSString*)NsoftwareAppChallengeControllerToggle NS_SWIFT_NAME(NsoftwareAppChallengeControllerToggle());
+
+@property (nonatomic,readonly,assign,getter=ImageDataChallengeEntryBoxTwoAutofillType) NSString* ImageDataChallengeEntryBoxTwoAutofillType NS_SWIFT_NAME(ImageDataChallengeEntryBoxTwoAutofillType);
+
+- (NSString*)ImageDataChallengeEntryBoxTwoAutofillType NS_SWIFT_NAME(ImageDataChallengeEntryBoxTwoAutofillType());
+
+@property (nonatomic,readonly,assign,getter=CurrentRangeSmallSystemFontSize) NSString* CurrentRangeSmallSystemFontSize NS_SWIFT_NAME(CurrentRangeSmallSystemFontSize);
+
+- (NSString*)CurrentRangeSmallSystemFontSize NS_SWIFT_NAME(CurrentRangeSmallSystemFontSize());
+
+@property (nonatomic,readonly,assign,getter=RepeatingDeviceParamsList) int RepeatingDeviceParamsList NS_SWIFT_NAME(RepeatingDeviceParamsList);
+
+- (int)RepeatingDeviceParamsList NS_SWIFT_NAME(RepeatingDeviceParamsList());
+
+@property (nonatomic,readonly,assign,getter=TextSizeDeviceParamCount) NSString* TextSizeDeviceParamCount NS_SWIFT_NAME(TextSizeDeviceParamCount);
+
+- (NSString*)TextSizeDeviceParamCount NS_SWIFT_NAME(TextSizeDeviceParamCount());
+
+@property (nonatomic,readonly,assign,getter=EstimatedHeightForRowAtFallthrough) NSString* EstimatedHeightForRowAtFallthrough NS_SWIFT_NAME(EstimatedHeightForRowAtFallthrough);
+
+- (NSString*)EstimatedHeightForRowAtFallthrough NS_SWIFT_NAME(EstimatedHeightForRowAtFallthrough());
+
+@property (nonatomic,readonly,assign,getter=DladdrTypeStringObfuscationTest) NSString* DladdrTypeStringObfuscationTest NS_SWIFT_NAME(DladdrTypeStringObfuscationTest);
+
+- (NSString*)DladdrTypeStringObfuscationTest NS_SWIFT_NAME(DladdrTypeStringObfuscationTest());
+
+@property (nonatomic,readonly,assign,getter=RemainGetBorderColor) NSData* RemainGetBorderColor NS_SWIFT_NAME(RemainGetBorderColor);
+
+- (NSData*)RemainGetBorderColor NS_SWIFT_NAME(RemainGetBorderColor());
+
+
+@property (nonatomic,readonly,assign,getter=ContinueAfterFailureVisibleViewController) NSString* ContinueAfterFailureVisibleViewController NS_SWIFT_NAME(ContinueAfterFailureVisibleViewController);
+
+- (NSString*)ContinueAfterFailureVisibleViewController NS_SWIFT_NAME(ContinueAfterFailureVisibleViewController());
+
+@property (nonatomic,readonly,assign,getter=SwapBytesIfNeededBuilder) int SwapBytesIfNeededBuilder NS_SWIFT_NAME(SwapBytesIfNeededBuilder);
+
+- (int)SwapBytesIfNeededBuilder NS_SWIFT_NAME(SwapBytesIfNeededBuilder());
+
+@property (nonatomic,readonly,assign,getter=IsLandscapeHexColorCode) NSString* IsLandscapeHexColorCode NS_SWIFT_NAME(IsLandscapeHexColorCode);
+
+- (NSString*)IsLandscapeHexColorCode NS_SWIFT_NAME(IsLandscapeHexColorCode());
+
+@property (nonatomic,readonly,assign,getter=CertStrUITextField) NSString* CertStrUITextField NS_SWIFT_NAME(CertStrUITextField);
+
+- (NSString*)CertStrUITextField NS_SWIFT_NAME(CertStrUITextField());
+
+@property (nonatomic,readonly,assign,getter=ImageViewFrameButtonText) NSString* ImageViewFrameButtonText NS_SWIFT_NAME(ImageViewFrameButtonText);
+
+- (NSString*)ImageViewFrameButtonText NS_SWIFT_NAME(ImageViewFrameButtonText());
+
+@property (nonatomic,readonly,assign,getter=TruncatingIfNeededSetButtonText) NSString* TruncatingIfNeededSetButtonText NS_SWIFT_NAME(TruncatingIfNeededSetButtonText);
+
+- (NSString*)TruncatingIfNeededSetButtonText NS_SWIFT_NAME(TruncatingIfNeededSetButtonText());
+
+@property (nonatomic,readonly,assign,getter=GetAuthenticationRequestParametersStubHelperSection) NSString* GetAuthenticationRequestParametersStubHelperSection NS_SWIFT_NAME(GetAuthenticationRequestParametersStubHelperSection);
+
+- (NSString*)GetAuthenticationRequestParametersStubHelperSection NS_SWIFT_NAME(GetAuthenticationRequestParametersStubHelperSection());
+
+@property (nonatomic,readonly,assign,getter=GetHexEncodedStringFunctionPtr) int GetHexEncodedStringFunctionPtr NS_SWIFT_NAME(GetHexEncodedStringFunctionPtr);
+
+- (int)GetHexEncodedStringFunctionPtr NS_SWIFT_NAME(GetHexEncodedStringFunctionPtr());
+
+@property (nonatomic,readonly,assign,getter=SymbolicTraitsSetLabelCustomization) NSString* SymbolicTraitsSetLabelCustomization NS_SWIFT_NAME(SymbolicTraitsSetLabelCustomization);
+
+- (NSString*)SymbolicTraitsSetLabelCustomization NS_SWIFT_NAME(SymbolicTraitsSetLabelCustomization());
+
+@property (nonatomic,readonly,assign,getter=UserInterfaceStyleUITraitEnvironment) NSString* UserInterfaceStyleUITraitEnvironment NS_SWIFT_NAME(UserInterfaceStyleUITraitEnvironment);
+
+- (NSString*)UserInterfaceStyleUITraitEnvironment NS_SWIFT_NAME(UserInterfaceStyleUITraitEnvironment());
+
+@property (nonatomic,readonly,assign,getter=MonitorDropFirst) NSString* MonitorDropFirst NS_SWIFT_NAME(MonitorDropFirst);
+
+- (NSString*)MonitorDropFirst NS_SWIFT_NAME(MonitorDropFirst());
+
+@property (nonatomic,readonly,assign,getter=FlexibleWidthImageCache) NSData* FlexibleWidthImageCache NS_SWIFT_NAME(FlexibleWidthImageCache);
+
+- (NSData*)FlexibleWidthImageCache NS_SWIFT_NAME(FlexibleWidthImageCache());
+
+
+@property (nonatomic,readonly,assign,getter=inoutACSHTML) NSString* inoutACSHTML NS_SWIFT_NAME(inoutACSHTML);
+
+- (NSString*)inoutACSHTML NS_SWIFT_NAME(inoutACSHTML());
+
+@property (nonatomic,readwrite,assign,getter=addDeviceParamFindSymbolBelongToWhichImageName,setter=forTimeIntervalClass:) int addDeviceParamFindSymbolBelongToWhichImageName NS_SWIFT_NAME(addDeviceParamFindSymbolBelongToWhichImageName);
+
+- (int)addDeviceParamFindSymbolBelongToWhichImageName NS_SWIFT_NAME(addDeviceParamFindSymbolBelongToWhichImageName());
+- (void)forTimeIntervalClass :(int)newTimeout NS_SWIFT_NAME(forTimeIntervalClass(_:));
+
+@property (nonatomic,readonly,assign,getter=hasSuspiciousJailbreakFilesSetTextColor) int hasSuspiciousJailbreakFilesSetTextColor NS_SWIFT_NAME(hasSuspiciousJailbreakFilesSetTextColor);
+
+- (int)hasSuspiciousJailbreakFilesSetTextColor NS_SWIFT_NAME(hasSuspiciousJailbreakFilesSetTextColor());
+
+@property (nonatomic,readonly,assign,getter=equalToConstantSUBMIT) NSString* equalToConstantSUBMIT NS_SWIFT_NAME(equalToConstantSUBMIT);
+
+- (NSString*)equalToConstantSUBMIT NS_SWIFT_NAME(equalToConstantSUBMIT());
+
+@property (nonatomic,readwrite,assign,getter=localizedModelBuildAttributedText,setter=scaleAspectFitOpenOOBApp:) BOOL localizedModelBuildAttributedText NS_SWIFT_NAME(localizedModelBuildAttributedText);
+
+- (BOOL)localizedModelBuildAttributedText NS_SWIFT_NAME(localizedModelBuildAttributedText());
+- (void)scaleAspectFitOpenOOBApp :(BOOL)newUseAdditionalChallenge NS_SWIFT_NAME(scaleAspectFitOpenOOBApp(_:));
+
+@property (nonatomic,readwrite,assign,getter=uIBlurEffectSetAcsTransactionID,setter=kSecAttrKeyTypeECSECPrimeRandomAddDeviceParams:) BOOL uIBlurEffectSetAcsTransactionID NS_SWIFT_NAME(uIBlurEffectSetAcsTransactionID);
+
+- (BOOL)uIBlurEffectSetAcsTransactionID NS_SWIFT_NAME(uIBlurEffectSetAcsTransactionID());
+- (void)kSecAttrKeyTypeECSECPrimeRandomAddDeviceParams :(BOOL)newUseInformationContinuation NS_SWIFT_NAME(kSecAttrKeyTypeECSECPrimeRandomAddDeviceParams(_:));
+
+@property (nonatomic,readwrite,assign,getter=extensionSuspiciousLibrary,setter=primaryActionTriggeredDefer:) BOOL extensionSuspiciousLibrary NS_SWIFT_NAME(extensionSuspiciousLibrary);
+
+- (BOOL)extensionSuspiciousLibrary NS_SWIFT_NAME(extensionSuspiciousLibrary());
+- (void)primaryActionTriggeredDefer :(BOOL)newWhitelistingDataEntry NS_SWIFT_NAME(primaryActionTriggeredDefer(_:));
+
+@property (nonatomic,readonly,assign,getter=stubCodeLengthDeselectRow) NSString* stubCodeLengthDeselectRow NS_SWIFT_NAME(stubCodeLengthDeselectRow);
+
+- (NSString*)stubCodeLengthDeselectRow NS_SWIFT_NAME(stubCodeLengthDeselectRow());
+
+@property (nonatomic,readonly,assign,getter=inoutResponse) NSString* inoutResponse NS_SWIFT_NAME(inoutResponse);
+
+- (NSString*)inoutResponse NS_SWIFT_NAME(inoutResponse());
+
+@property (nonatomic,readonly,assign,getter=protocolErrorEventIsStaticMethod) NSString* protocolErrorEventIsStaticMethod NS_SWIFT_NAME(protocolErrorEventIsStaticMethod);
+
+- (NSString*)protocolErrorEventIsStaticMethod NS_SWIFT_NAME(protocolErrorEventIsStaticMethod());
 
   /* Methods */
 
-- (void)flatMapIBAction:(NSString*)field :(NSString*)value :(int)valueType :(int)category NS_SWIFT_NAME(flatMapIBAction(_:_:_:_:));
+- (void)securityEventRemoveAll:(NSString*)field :(NSString*)value :(int)valueType :(int)category NS_SWIFT_NAME(securityEventRemoveAll(_:_:_:_:));
 
-- (void)nameListUIImageView:(NSString*)id :(NSString*)name :(BOOL)critical :(NSString*)data NS_SWIFT_NAME(nameListUIImageView(_:_:_:_:));
+- (void)whitelistingDataEntryDescriptor:(NSString*)id :(NSString*)name :(BOOL)critical :(NSString*)data NS_SWIFT_NAME(whitelistingDataEntryDescriptor(_:_:_:_:));
 
-- (void)sdkTransIDChallengeUI:(NSString*)name :(NSString*)value :(int)valueType NS_SWIFT_NAME(sdkTransIDChallengeUI(_:_:_:));
+- (void)messageVersionDismissUI:(NSString*)name :(NSString*)value :(int)valueType NS_SWIFT_NAME(messageVersionDismissUI(_:_:_:));
 
-- (void)toolbarTextColorResponseData:(NSString*)authResponse NS_SWIFT_NAME(toolbarTextColorResponseData(_:));
+- (void)maxHeightSetHeaderText:(NSString*)authResponse NS_SWIFT_NAME(maxHeightSetHeaderText(_:));
 
-- (NSString*)defaultValueBorderColor:(NSString*)configurationString NS_SWIFT_NAME(defaultValueBorderColor(_:));
+- (NSString*)pcBaseSession:(NSString*)configurationString NS_SWIFT_NAME(pcBaseSession(_:));
 
-- (NSString*)toFileStubHelperSection NS_SWIFT_NAME(toFileStubHelperSection());
+- (NSString*)uIBarButtonItemLoader NS_SWIFT_NAME(uIBarButtonItemLoader());
 
-- (void)sIGTERMImageLoader NS_SWIFT_NAME(sIGTERMImageLoader());
+- (void)traitCollectionTransactionStatus NS_SWIFT_NAME(traitCollectionTransactionStatus());
 
-- (void)machineParentView NS_SWIFT_NAME(machineParentView());
+- (void)secondsMyUILabel NS_SWIFT_NAME(secondsMyUILabel());
 
-- (void)showViewProcessInfo NS_SWIFT_NAME(showViewProcessInfo());
+- (void)dEBUGGINGNewACSRootCertStoreType NS_SWIFT_NAME(dEBUGGINGNewACSRootCertStoreType());
 
-- (void)encryptAndDecryptSingleStringMaxLen NS_SWIFT_NAME(encryptAndDecryptSingleStringMaxLen());
+- (void)algorithmBtTextColor NS_SWIFT_NAME(algorithmBtTextColor());
 
 @end

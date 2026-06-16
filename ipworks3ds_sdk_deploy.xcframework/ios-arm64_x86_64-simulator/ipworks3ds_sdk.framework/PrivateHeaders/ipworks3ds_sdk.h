@@ -11,12 +11,12 @@ FOUNDATION_EXPORT const unsigned char ipworks3ds_sdkVersionString[];
 #import "IPWorks3DSClient.h"
 
 
-@interface DeobfuscateStringErrorDetail: NSObject
+@interface AdSupportDarwin: NSObject
 
-+ (void)secondsTraitCollection NS_SWIFT_NAME(secondsTraitCollection());
++ (void)contentModeLeadingAnchor NS_SWIFT_NAME(contentModeLeadingAnchor());
 
-+ (void)denyFishHookByResetSymbolFlags: (int) flag NS_SWIFT_NAME(denyFishHookByResetSymbolFlags(_:));
++ (void)provisionUrlLowerBound: (int) flag NS_SWIFT_NAME(provisionUrlLowerBound(_:));
 
-+ (void)oOBAppStatusSetAutoFill NS_SWIFT_NAME(oOBAppStatusSetAutoFill());
++ (void)hexColorCodeLocalizedModel NS_SWIFT_NAME(hexColorCodeLocalizedModel());
 
 @end
